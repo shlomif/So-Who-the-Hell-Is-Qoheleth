@@ -4,9 +4,9 @@
 
 =head2 Text
 
-The screenplay “Buffy: a Few Good Slayers” is original,
+The screenplay “So, Who the Hell is Qoheleth?” is original,
 and as far as I am concerned is Copyright by Shlomi Fish, 2014 and
-available under the
+made available under the
 L<http://creativecommons.org/licenses/by-nc-sa/3.0/>, either version 3.0 or at
 your option any later version.
 

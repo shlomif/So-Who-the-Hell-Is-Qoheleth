@@ -1,11 +1,14 @@
 =encoding utf8
 
-=head1 Buffy - a Few Good Slayers
+=head1 “So, who the hell is Qoheleth?”
 
 =head2 About
 
-This repository contains the sources for I<Buffy - a Few Good Slayers>,
-a Buffy fanfic screenplay by Shlomi Fish (L<http://www.shlomifish.org/>).
+This repository contains the sources for I<“So, who the hell is Qoheleth?”>,
+an illustrated, historical, fanfic screenplay by
+Shlomi Fish (L<http://www.shlomifish.org/>) about what happened to the
+author of the scroll of L<http://en.wikipedia.org/wiki/Ecclesiastes>
+shortly after having written it.
 
 =head2 Links
 
@@ -13,24 +16,19 @@ a Buffy fanfic screenplay by Shlomi Fish (L<http://www.shlomifish.org/>).
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/>
+L<http://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/>
 
 =back
 
 =head2 Building the Screenplay
 
-Go to C<./buffy--a-few-good-slayers/screenplay/> and type C<make> .
+Go to C<./so-who-the-hell-is-qoheleth/screenplay/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-The file C<./buffy--a-few-good-slayers/ideas/ideas.pod> contains some ideas and
+The file C<./so-who-the-hell-is-qoheleth/ideas/ideas.pod> contains some ideas and
 planning to put into the story. One can render it into XHTML by typing
 C<make> .
-
-=head2 In Memory
-
-See the file C<In-Memory-Of-Rebecca-Meyer.txt> for a dedication for the memory
-of Rebecca Meyer.
 
 =cut
 
