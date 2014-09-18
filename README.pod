@@ -1,0 +1,36 @@
+=encoding utf8
+
+=head1 Buffy - a Few Good Slayers
+
+=head2 About
+
+This repository contains the sources for I<Buffy - a Few Good Slayers>,
+a Buffy fanfic screenplay by Shlomi Fish (L<http://www.shlomifish.org/>).
+
+=head2 Links
+
+=over 4
+
+=item * Homepage
+
+L<http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/>
+
+=back
+
+=head2 Building the Screenplay
+
+Go to C<./buffy--a-few-good-slayers/screenplay/> and type C<make> .
+
+=head2 Ideas document / plot summary
+
+The file C<./buffy--a-few-good-slayers/ideas/ideas.pod> contains some ideas and
+planning to put into the story. One can render it into XHTML by typing
+C<make> .
+
+=head2 In Memory
+
+See the file C<In-Memory-Of-Rebecca-Meyer.txt> for a dedication for the memory
+of Rebecca Meyer.
+
+=cut
+
