@@ -4,7 +4,9 @@
 
 [
 
-TODO : <b>TODO</b> - Fill in.
+An illustrated screenplay about what happened to the author of the scroll of
+<a href="https://en.wikipedia.org/wiki/Ecclesiastes">Ecclesiastes/Qoheleth</a>
+shortly after writing it.
 
 ]
 
@@ -14,41 +16,7 @@ made available under the
 Attribution Noncommercial Share-Alike 3.0 Unported Licence (CC-by-nc-sa)</a>
 (or at your option - any later version).]
 
-</s>
-
-<s id="underwritten1" title="Underwritten 1">
-
 [
-
-Plan for an Illustrated (images/videos/etc.) screenplay.
-
-It is titled "So, who the hell is Qoheleth?"
-
-And it is about the guy who wrote https://en.wikiquote.org/wiki/Ecclesiastes shortly after he finished writing it and publicised it?
-
-Now i imagined him being called Yoseph (or Iosephus in Greek) and he was a Jew who lived in Damascus, around ~300 B.C. . He was young (18 y.o - maybe even less); unmarried and a virgin.
-
-One day he enters a bet in which he tries to prove that he can write a worthy work of philosphy.
-
-And he eventually produces the scroll - after about a month or two of work.
-
-He wrote it originally in Hebrew, but recited it in Greek and Aramaic.
-
-Well, maybe also hebrew and other langs.
-
-Elench: anyway, he gets a standing ovation and people donate to him like crazy (back then philosophers were a kind of entertainers).
-
-He was under constant pressure to get married already.
-
-So he gives a few reruns.
-
-And pretty soon the whole of Damascus is obsessed with him and his scroll.
-
-And all the single girls want him for themselves.
-
-Which drives him mad because pre-marital sex was considered non-kosher.
-
-And he believes in intimacy.
 
 At the start of the screenplay he gets asked "So who the hell is Qoheleth?" in
 Aramaic.
@@ -68,14 +36,72 @@ scroll was blasphemous, it brought a lot of "respect" to the Jews.
 
 </s>
 
+<s id="introducing-josephus" title="Introducing Josephus">
+
+[Black screen. Initial Credits.]
+
+[ Text on the screen: Damascus, circa 300 B.C. ]
+
+Voice of Jacob: So, who the hell is Qoheleth?
+
+[Showing Josephus.]
+
+Josephus: I’m getting asked that a lot. It could be King Solomon - it
+could be someone else.
+
+Jacob: Yes, I see now. Anyway, as blasphemous as this Qoheleth thing of yours
+is - it brought great appreciation to the Jews of this town. Respect!
+
+[ Jacob hits Josephus on the shoulder - Josephus sways a little. ]
+
+Josephus: Thank you! Anyway, do not take it too seriously - it’s just cheap
+entertainment, as philosphy goes.
+
+Jacob: Cheap or not, philosophy is big business, and who knows - it may
+prove of utility one day.
+
+Josephus: Yes, maybe, and it’s definitely fun.
+
+Jacob: Well, we’d better be going - was nice running into you.
+
+[They part]
+
+JosMono: So here it is. My name is Yoseph in Hebrew or Josephus in Greek.
+I lived in Damascus my whole life, and received both Jewish and Greek
+education. I’m still unmarried, virginal, and under constant pressure from
+my family to marry a nice Jewish girl, and have children.
+
++++: I was a moderately succesful and minor philosopher-wannabe,
+which my merchant father looked down on as a pointless and unprofitable
+profession.
+
++++: Several months ago, my good Greek friend’s brother, who is a
+successful merchant as well, but who likes philosophy a lot, bet with me
+that I could not write a good work of philosophy. I spent about two months
+writing the scroll of Qoheleth, and after reciting it in Aramaic and Greek,
+I got several standing ovations and people donated like crazy. Now it seems
+that everyone had it memorised, and they think it’s awesome.
+
++++: Since then I got so much money that I’ve become too ashamed to collect
+the bet money which is quite dwarfed by what I have now.
+
++++: That’s not the worst part.
+
+[ Scene showing many attractive girls pointing at Josephus, smiling, giggling
+and lusting him. ]
+
+JosMono: They all want me!
+
+</s>
+
 <s id="egyptian_girls" title="The Egyptian Girls">
 
 [ Josephus eyes three attractive Egyptian girls, pointing at him and
 giggling. JosMono == Josephus’ Monologue. ]
 
 JosMono: Oh, great, Egyptians! Widely considered to be the most
-desirable and beautiful girls. Stay strong, Josephus, be
-non-chalant, ignore them.
+desirable and beautiful girls. Stay strong, Josephus, act
+non-chalantly, ignore them.
 
 [ He passed by them only to hear one say
 «A good name is better than good oil» (
@@ -109,6 +135,7 @@ Josephus: You know you’ll have to convert to Judaism?
 Egyptian Girl #1: Yes, I’m cool with that.
 
 Josephus: Thanks, I’ll consider it.
+
 </s>
 
 <s id="meeting_the_celtic_trio" title="Meeting the Celtic trio">
@@ -120,14 +147,14 @@ and that she has sunburns. She takes him to a restaurant which is shaded,
 and there are two other girls there: one blonde and the other with
 red/orange coloured-hair. They are https://en.wikipedia.org/wiki/Celts .
 
-The other girl (Celeste) pulls down her hood, and she is blonde as well.]
+The other girl (Sophia) pulls down her hood, and she is blonde as well.]
 
-Celeste: Hello Josephus, thanks for coming to meet us. We are three Celtic
+Sophia: Hello Josephus, thanks for coming to meet us. We are three Celtic
 girls from the village near the salt mine in the alps. We wanted to travel
 all the way to Alexandria, but given our sunburns, I guess that’s not going
 to happen.
 
-+++: My Greek name is Celeste. This is Selina, and Alexis. Will you care for
++++: My Greek name is Sophia. This is Selena, and Alexis. Will you care for
 some wine or grape juice? Kosher of course, not that we’ll ever willingly
 drink the non-kosher excuses for them again.
 
@@ -137,9 +164,9 @@ practice of medicine is not so advanced yet. In general, we believe you should
 stay in the shade, and get plenty of fluids.
 
 +++: From what I read about your people, you tend to be predomintaly blond,
-and I also notice that Selina is a redhead. Is it common there?
+and I also notice that Selena is a redhead. Is it common there?
 
-Celeste: Oh, yes, quite common. From what we noticed, here it tends
+Sophia: Oh, yes, quite common. From what we noticed, here it tends
 to be extremely rare.
 
 Josephus: Yes, King David was reportedly a "Reddish and with beautiful eyes"
@@ -149,7 +176,7 @@ the scripture was written, it was notable, but not unthinkable.
 +++: Anyway, right now, I only have two Jewish redhead relatives: my cousins
 - a boy and a girl.
 
-Celeste: And what happened to them.
+Sophia: And what happened to them.
 
 Josephus: Oh, what happened to the girl cousin is a really interesting story.
 See: there's this other girl - Greek, black hair, brown eyes, bronze skin -
@@ -158,7 +185,7 @@ scroll - and a very rebellious character. She’s been making a lot of
 philosophers here angry with her offputting comments, and nearly got herself
 killed or injured several times.
 
-Selina: “Nearly”… “nearly” is the key word.
+Selena: “Nearly”… “nearly” is the key word.
 
 Josephus: Yes, possibly. Anyway, although certainly pretty, I’ve known far more
 beautiful girls here, but, but… men go mad over her! She’s been courted by
@@ -183,14 +210,14 @@ of that song as a love song to her, and she ended up falling in love with
 him, and he converted to Judaism and married her, and she’s now pregnant
 with their first born, and he writes more songs about her. Very good ones.
 
-Celeste: And Horkenea is still single?
+Sophia: And Horkenea is still single?
 
 Josephus: Yes! And people are still crazy over her.
 
 +++: Anyway, can you share some details about your trip? I never ventured
 a long way past Damascus.
 
-Celeste: Sure! It was very interesting. Most interesting.
+Sophia: Sure! It was very interesting. Most interesting.
 
 +++: We travelled with our own people and some Greek merchants, all the way
 to Athens, and there we hitchhiked a ride with some
@@ -201,14 +228,14 @@ have sex with them or else they'll kill us and take all our possessions.
 
 Josephus: Wow! Rape. So what did you do?
 
-Celeste: Well, we consulted between ourselves and after a long while of being
+Sophia: Well, we consulted between ourselves and after a long while of being
 really scared, we calmed down a little, and decided that if we are forced to
 have sex, we might as well cooperate and try to enjoy it. So we told them
 that we’ll do it willingly and they agreed.
 
 Josephus: How clever of you! And then what happened.
 
-Celeste: Well, the three of us and her lover each found their own part of the
+Sophia: Well, the three of us and her lover each found their own part of the
 woods, and we had sex. Then, after one or two times, the three men lost stamina,
 while we were not completely satisfied and cried for more!
 
@@ -218,7 +245,7 @@ Alexis: Yes! Then we heard each other’s cries and we gathered at one place
 together still naked with our clothes as cover, and we bitched about the whole
 situation - in Greek - and the men stood there ashamed.
 
-Celeste: Yes! Anyway, we continued as couples throughout the trip and the men
+Sophia: Yes! Anyway, we continued as couples throughout the trip and the men
 got better in love making as time went by, and they also taught us a little
 Aramaic. Then we arrived at the junction
 - they wanted to go to Assyria, and we wanted to head more south, and then
@@ -228,7 +255,7 @@ others to let them go on their own way.
 
 Josephus: Wow! That sounds like love.
 
-Celeste: Love! Yes! That’s the word. Eros in action.
+Sophia: Love! Yes! That’s the word. Eros in action.
 
 +++: Anyway, then we hitched a ride with a band of Greek merchants. The boys
 there were easy and we all liked each other, so we had a lot of sex, and
@@ -236,7 +263,7 @@ we learned even more Aramaic from them.
 
 Josephus: Did you fall in love with them too?
 
-Celeste: This time we didn’t. So after them, we hitchhiked a ride with some
+Sophia: This time we didn’t. So after them, we hitchhiked a ride with some
 Jewish and Phoenician merchants. Jews and Phoenicians proclaim to hate each
 others’ guts but they always band together. Anyway, we wanted to have sex
 with the Jewish men but they refused to do so unless we converted to Judaism
@@ -245,7 +272,7 @@ as the reason why.
 
 Josephus: So did you give up on them?
 
-Celeste: Not on your life! We wanted them more! And more badly!
+Sophia: Not on your life! We wanted them more! And more badly!
 
 [
 
@@ -255,7 +282,7 @@ man who does not want to have sex. <a href="http://ufwebsite.tripod.com/scripts/
 
 ]
 
-Celeste: The wives of the Jewish men thought they were being unfair to
+Sophia: The wives of the Jewish men thought they were being unfair to
 us, and urged them to have sex with us. So they started a heated debate
 about what the
 <a href="http://en.wikipedia.org/wiki/Halakha">Jewish tradition</a>
@@ -263,7 +290,7 @@ said about that.
 
 Josephus: So these women studied that?
 
-Celeste: Probably not, but they faked it really well. But the men still
+Sophia: Probably not, but they faked it really well. But the men still
 didn’t want to have sex with us, because of Jehovah of course.
 
 Josephus: Well, just for the record, as much as my idea of Judaism is
@@ -271,7 +298,7 @@ unorthodox and avantgarde, and I derive influence from other ethnicities and
 cultures, I am still a proud Jew and not going to cast humiliation on
 my people by having pre-marital sex with you or with any other girl.
 
-Selina: See! Told you! All Jews are the same. Jehovah, Jehovah, Jehovah.
+Selena: See! Told you! All Jews are the same. Jehovah, Jehovah, Jehovah.
 
 +++: Well, just for the record, we’re not going to have sex with you
 either.
@@ -280,18 +307,18 @@ Josephus: Oh.
 
 JosMono: I actually felt disappointed.
 
-Celeste: Do you feel disappointed about it?
+Sophia: Do you feel disappointed about it?
 
 Josephus: Me? No! It’s actually a relief. Well… a little.
 
-Celeste: OK, just now hat it’s nothing personal: we decided against having
+Sophia: OK, just now hat it’s nothing personal: we decided against having
 sex completely shortly after hearing your Qoheleth thing.
 
 Josephus: Really? But didn’t I say
 <a href="http://www.sacred-texts.com/bib/poly/ecc011.htm">Young man,
 be joyful in your youth</a> there?
 
-Celeste: That you did, but something else there made us realise that sex
+Sophia: That you did, but something else there made us realise that sex
 is not worth the risk of getting pregnant. So we’re going to wait with it
 until we return home to our village.
 
