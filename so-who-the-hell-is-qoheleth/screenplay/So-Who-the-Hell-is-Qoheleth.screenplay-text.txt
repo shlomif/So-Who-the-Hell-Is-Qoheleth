@@ -62,7 +62,7 @@ Josephus: Yes, maybe, and it’s definitely fun.
 
 Jacob: Well, we’d better be going - was nice running into you.
 
-[They part]
+[They part. JosMono == Josephus’ Monologue. ]
 
 JosMono: So here it is. My name is Yoseph in Hebrew or Josephus in Greek.
 I lived in Damascus my whole life, and received both Jewish and Greek
@@ -74,8 +74,8 @@ which my merchant father looked down on as a pointless and unprofitable
 profession.
 
 +++: Several months ago, my good Greek friend’s brother, who is a
-successful merchant as well, but who likes philosophy a lot, bet with me
-that I could not write a good work of philosophy. I spent about two months
+successful merchant as well, but who likes philosophy a lot, made a bet with
+me that I could not write a good work of philosophy. I spent about two months
 writing the scroll of Qoheleth, and after reciting it in Aramaic and Greek,
 I got several standing ovations and people donated like crazy. Now it seems
 that everyone had it memorised, and they think it’s awesome.
@@ -95,7 +95,7 @@ JosMono: They all want me!
 <s id="egyptian_girls" title="The Egyptian Girls">
 
 [ Josephus eyes three attractive Egyptian girls, pointing at him and
-giggling. JosMono == Josephus’ Monologue. ]
+giggling. ]
 
 JosMono: Oh, great, Egyptians! Widely considered to be the most
 desirable and beautiful girls. Stay strong, Josephus, act
@@ -105,7 +105,7 @@ nonchalantly - just ignore them.
 «A good name is better than good oil» (
 http://biblehub.com/ecclesiastes/7-1.htm ) in perfect Aramaic.]
 
-Josephus: Oh! God help Me! [Out loud.]
+Josephus: Oh! God help Me! [Out loud while trying to obscure his view.]
 
 Egyptian Girl #1: Hey, Josephus?
 
@@ -169,12 +169,12 @@ to be extremely rare.
 
 Josephus: Yes, King David was reportedly a "Reddish and with beautiful eyes"
 ( http://biblehub.com/1_samuel/16-12.htm ), which indicates that back when
-the scripture was written, it was notable, but not unthinkable.
+that scripture was written, it was notable, but not unthinkable.
 
 +++: Anyway, right now, I only have two Jewish redhead relatives: my cousins
 - a boy and a girl.
 
-Athena: And what happened to them.
+Athena: And what happened to them?
 
 Josephus: Oh, what happened to the girl cousin is a really interesting story.
 See: there's this other girl - Greek, black hair, brown eyes, bronze skin -
@@ -212,7 +212,11 @@ Athena: And Horkenea is still single?
 
 Josephus: Yes! And people are still crazy over her.
 
-+++: Anyway, can you share some details about your trip? I never ventured
+</s>
+
+<s id="the_celts_trip_to_damascus" title="The Celts Trip to Damascus">
+
+Josephus: Anyway, can you share some details about your trip? I never ventured
 a long way past Damascus.
 
 Athena: Sure! It was very interesting. Most interesting.
@@ -291,7 +295,7 @@ Josephus: So these women studied that?
 Athena: Probably not, but they faked it really well. But the men still
 didn’t want to have sex with us, because of Jehovah of course.
 
-Josephus: Well, just for the record, as much as my idea of Judaism is
+Josephus: Well, just for the record, as much as my variant of Judaism is
 unorthodox and avant-garde, and I derive influence from other ethnicities and
 cultures, I am still a proud Jew and not going to cast humiliation on
 my people by having pre-marital sex with you or with any other girl.
@@ -378,9 +382,9 @@ Athena: OK, next. This card is “The beta”.
 Josephus: The beta female? Hmmm… Let me think…
 
 +++: Yes! The “protagonist”, the good girl, solid, “responsible adult”.
-She’s more respected than the Alpha female and some men find her more
-attractive. People talk about her less, and they assume there’s a rivalry
-between her and the Alpha female.
+She’s more respected than the Alpha female, and some men find her more
+attractive. She’s featured in conversations less, and people assume there’s a
+rivalry between her and the Alpha female.
 
 +++: In Damascus’ case, it is the Princess. She’s already engaged, and her
 marriage may make her the Beta female emerita, but only time can tell. She
