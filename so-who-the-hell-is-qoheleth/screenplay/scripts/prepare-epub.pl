@@ -13,6 +13,7 @@ my @images =
 (
     $gfx,
     'sigourney-weaver--resized.jpg',
+    'summer-glau--two-guns--400w.jpg',
 );
 
 my $obj = Shlomif::Screenplays::EPUB->new(

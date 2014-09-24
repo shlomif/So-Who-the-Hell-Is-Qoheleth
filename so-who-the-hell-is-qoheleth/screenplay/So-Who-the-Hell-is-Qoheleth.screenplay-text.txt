@@ -394,7 +394,8 @@ able to hold one long-ranged bow-like weapon in each hand.
 
 [
 
-Image—<a href="https://github.com/shlomif/Captioned-Image-Evolution-of-Girls-with-Weapons/blob/master/summer-glau-1600x1200-36018.jpg">Summer Glau holding two guns</a>.
+Summer Glau:
+<img src="images/summer-glau--two-guns--400w.jpg" alt="Summer Glau holding a gun in each hand" title="Summer Glau holding a gun in each hand" />
 
 ]
 
