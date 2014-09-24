@@ -384,7 +384,7 @@ to operate using both hands.
 
 [
 
-Sigourney Weaver:
+—
 <img src="images/sigourney-weaver--resized.jpg" alt="Sigourney Weaver Holding a Gun in both hands" title="Sigourney Weaver Holding a Gun in both hands - from Alien" />
 
 ]
@@ -394,7 +394,7 @@ able to hold one long-ranged bow-like weapon in each hand.
 
 [
 
-Summer Glau:
+—
 <img src="images/summer-glau--two-guns--400w.jpg" alt="Summer Glau holding a gun in each hand" title="Summer Glau holding a gun in each hand" />
 
 ]
