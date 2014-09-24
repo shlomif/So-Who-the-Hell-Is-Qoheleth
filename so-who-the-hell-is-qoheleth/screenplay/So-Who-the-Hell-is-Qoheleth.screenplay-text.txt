@@ -384,8 +384,8 @@ to operate using both hands.
 
 [
 
-Image—<a href="https://github.com/shlomif/Captioned-Image-Evolution-of-Girls-with-Weapons/blob/master/sigourney-weaver.jpg">Sigourney
-Weaver from Alien</a>
+Sigourney Weaver:
+<img src="images/sigourney-weaver--resized.jpg" alt="Sigourney Weaver Holding a Gun in both hands" title="Sigourney Weaver Holding a Gun in both hands - from Alien" />
 
 ]
 
