@@ -28,7 +28,7 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 $obj->run;
 
 {
-    my $epub_basename = 'Buffy--A-Few-Good-Slayers';
+    my $epub_basename = 'So-Who-the-Hell-is-Qoheleth';
     $obj->epub_basename($epub_basename);
 
     $obj->output_json(
@@ -36,7 +36,7 @@ $obj->run;
             data =>
             {
                 filename => $epub_basename,
-                title => q/Buffy: a Few Good Slayers/,
+                title => q{“So, Who the Hell is Qoheleth?”},
                 authors =>
                 [
                     {
@@ -55,11 +55,11 @@ $obj->run;
                 rights => "Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
-                subjects => [ 'FICTION/Humorous', 'FICTION/Mashups', 'Buffy', 'xkcd', ],
+                subjects => [ 'FICTION/Humorous', 'Judaism', 'Bible', ],
                 identifier =>
                 {
                     scheme => 'URL',
-                    value => 'http://www.shlomifish.org/humour/Buffy/A-Few-Good-Slayers/',
+                    value => 'http://localhost/shlomif/homepage-local/humour/So-Who-The-Hell-Is-Qoheleth/',
                 },
             },
         },
