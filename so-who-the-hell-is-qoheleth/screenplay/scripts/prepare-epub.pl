@@ -12,6 +12,7 @@ my $gfx = 'Buffy-A-Few-Good-Slayers-Logo--take1.svg.png';
 my @images =
 (
     $gfx,
+    'Friends-S02E04--Nothing-Sexier.svg.jpg',
     'sigourney-weaver--resized.jpg',
     'summer-glau--two-guns--400w.jpg',
 );
