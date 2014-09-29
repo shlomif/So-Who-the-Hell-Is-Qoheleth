@@ -113,7 +113,7 @@ Josephus: Yes?
 
 Egyptian Girl #1: I'm sorry, we were just teasing you. You must get that a lot.
 
-Josephus: That I do.
+Josephus: Yes, I do.
 
 Egyptian Girl #1: I can feel for you. Anyway, we loved your "Qoheleth" thing
 and we memorised it all. It's awesome.
@@ -325,7 +325,7 @@ Athena: Do you feel disappointed from it?
 Josephus: Me? No! It’s actually a relief. Well… a little.
 
 Athena: OK, just know that it’s nothing personal: we decided against having
-sex completely shortly after hearing your Qoheleth thing.
+sex completely, shortly after hearing your Qoheleth thing.
 
 Josephus: Really? But didn’t I say
 <a href="http://www.sacred-texts.com/bib/poly/ecc011.htm">Young man,
@@ -498,6 +498,47 @@ Horkenea wants me.
 
 Athena: OK, fair enough. Now next. Hmm… it’s a card of complete consumption,
 so seems like it be will be “The Gamma all the way to the Omega”. Who is she?
+
+Josephus: Gamma-to-Omega? Hmmm… yes! The Gamma↔Omega female— the one
+who is sheepish, always gets herself and everyone else into trouble,
+pitiful. The true villainess.
+
+[
+
+Image - anthology of Gamma↔Omega females -
+<a href="http://www.hoboes.com/FireBlade/Fiction/Dumas/History/index-Major/#anne-austria">Anne
+of Austria</a> from The Three Musketeers,
+<a href="http://buffy.wikia.com/wiki/Willow_Rosenberg">Willow from Buffy</a>
+<a href="http://buffy.wikia.com/wiki/Cordelia_Chase">Cordelia Chase from Buffy</a>.
+]
+
+Athena: OK, next card. Hmmm… that’s funny - it’s a card that’s indicative
+of something above and beyond the previous cards. I wonder what it could be…
+
+Josephus: Above and beyond… above and beyond… oh my… there are many
+Alpha/Beta/Gamma↔Omega males and females - each in their own society and
+sub-society. But there is one person, or maybe a selected few above them…
+the Master Philosopher! The Hacker King!
+
++++: Moses, Cyrus, Socrates, Plato, Aristotle - they were all the Master
+philosophers. But who is he know? Who the hell is he?
+
++++: Who the hell is… the Qoheleth?
+
+Selena: Is it you?
+
+Josephus: Me? The scroll, it is nothing… I was just faking it… I cannot be
+the hacker king.
+
+Athena: You could not be… the scroll was written in past tense. And I think
+you were… were the hacker king!
+
+Josephus: So you're saying that in the scroll I distilled my wisdom, and it
+became my <a href="http://en.wikipedia.org/wiki/Magnum_opus">Magnus opus</a>
+as the hacker king and I officially stepped down as that? But who is
+the new Qoheleth now? I must find out.
+
+Athena: FILL IN.
 
 </s>
 
