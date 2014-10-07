@@ -7,7 +7,7 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB;
 
-my $gfx = 'Buffy-A-Few-Good-Slayers-Logo--take1.svg.png';
+my $gfx = 'who-is-qoheleth.svg.png';
 
 my @images =
 (
