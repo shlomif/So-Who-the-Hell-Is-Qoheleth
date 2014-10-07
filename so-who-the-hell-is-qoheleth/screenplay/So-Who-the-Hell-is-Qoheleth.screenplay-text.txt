@@ -62,9 +62,9 @@ Josephus: Yes, maybe, and it’s definitely fun.
 
 Jacob: Well, we’d better be going - was nice running into you.
 
-[They part. JosMono == Josephus’ Monologue. ]
+[They part. Josephus’ Voice == Josephus’ Monologue. ]
 
-JosMono: So here it is. My name is Yoseph in Hebrew or Josephus in Greek.
+Josephus’ Voice: So here it is. My name is Yoseph in Hebrew or Josephus in Greek.
 I lived in Damascus my whole life, and received both Jewish and Greek
 education. I’m still unmarried, virginal, and under constant pressure from
 my family to marry a nice Jewish girl, and have children.
@@ -88,7 +88,7 @@ the bet money which is quite dwarfed by what I have now.
 [ Scene showing many attractive girls pointing at Josephus, smiling, giggling
 and lusting him. ]
 
-JosMono: They all want me!
+Josephus’ Voice: They all want me!
 
 </s>
 
@@ -97,7 +97,7 @@ JosMono: They all want me!
 [ Josephus eyes three attractive Egyptian girls, pointing at him and
 giggling. ]
 
-JosMono: Oh, great, Egyptians! Widely considered to be the most
+Josephus’ Voice: Oh, great, Egyptians! Widely considered to be the most
 desirable and beautiful girls. Stay strong, Josephus, act
 nonchalantly - just ignore them.
 
@@ -321,7 +321,7 @@ either.
 
 Josephus: Oh.
 
-JosMono: I actually felt disappointed.
+Josephus’ Voice: I actually felt disappointed.
 
 Athena: Do you feel disappointed from it?
 
@@ -393,7 +393,7 @@ Josephus: Wow!
 Athena: After we threw a few knives like that at their chieftains eyes,
 they left us alone.
 
-JosMono: OK, there was definite arousal. I thought I should go.
+Josephus’ Voice: OK, there was definite arousal. I thought I should go.
 
 Josephus: OK, I really should go - it was nice talking you, but I’m beginning
 to sin here.
@@ -582,14 +582,71 @@ Josephus: I guess I should marry someone. Maybe Horkenea if she’s willing
 to convert to Judaism. She should be enough of a competition for the other
 girls to ward them off.
 
-JosMono: The day started to fade.
+Josephus’ Voice: The day started to fade.
 
 Josephus: OK, I think I spent enough time with you here. I learned a lot from
 you so I won’t require payment. Perhaps I should be the one who is paying
 you. I need to go because people still need me as a physician and a
 consultant, and they likely won’t be able to find me here.
 
+Athena: Well, maybe we can accompany you. We can put our caps on and the
+sun is no longer as strong as it was.
 
+Josephus: Yes.
+
+[They go.]
+
+</s>
+
+<s id="being_a_physician" title="Josephus Being a Physician">
+
+[Josephus and the three Celtic girls are walking down the street.]
+
+Alexis: So, Josephus, can you tell us about some of your exploits as a
+physician?
+
+Josephus: Sure! The other day I treated a young girl who suffered from a flu,
+and she got better and became healthy again. And shortly after that, she
+accidentally broke a pot, and her mother was mad at her. So some guys
+I know told me that the pot got broken because I saved her, and that it was
+God’s will for her to die. We are still being treated as
+<a href="https://en.wikipedia.org/wiki/Necromancy">Necromancers</a> and
+raisers of the dead sometimes.
+
+Alexis: I see.
+
+[They pass through a crowd of young females.]
+
+Girl: [Teasingly] Hello, Josephus.
+
+Josephus: [Also teasingly] Hello ladies!
+
+[The girls burst out laughing. Josephus and the Celts join them and they
+pass through. ]
+
+Josephus: Heh, you were right — it does feel not as badly if you change
+your attitude.
+
+Athena: Yeah.
+
+Josephus: Anyway, another thing we treat is ailments of the spirit. There
+was this hard to tackle case the other day with a rich Jewish merchant,
+who got
+<a href="http://en.wikipedia.org/wiki/Major_depressive_disorder">depressed</a>
+
+[ Screen become blurry.
+
+Outside the merchant's house, there's a fellow Greek philosopher, Hector,
+outside.]
+
+Hector: Hi Josephus! It's good that you are here - they won't let me in
+because I’m not Jewish. Anyway, they tried playing to him and he dislikes
+it.
+
+Josephus: I see. Do you propose extracting blood like the Greek do?
+
+Hector: I never really believed in it. I suggest you just talk to him and
+see what is on his mind - maybe the answer lies there.
 
 </s>
 
