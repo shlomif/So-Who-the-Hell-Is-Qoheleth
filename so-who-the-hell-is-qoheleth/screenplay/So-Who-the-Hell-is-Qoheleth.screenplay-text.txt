@@ -636,8 +636,7 @@ who got
 
 [ Screen become blurry.
 
-Outside the merchant's house, there's a fellow Greek philosopher, Hector,
-outside.]
+Outside the merchant's house, there's a fellow Greek philosopher, Hector.]
 
 Hector: Hi Josephus! It's good that you are here - they won't let me in
 because I’m not Jewish. Anyway, they tried playing to him and he dislikes
@@ -647,6 +646,33 @@ Josephus: I see. Do you propose extracting blood like the Greek do?
 
 Hector: I never really believed in it. I suggest you just talk to him and
 see what is on his mind - maybe the answer lies there.
+
+Josephus: [Thinks for a moment.] Sounds like it may work. [He enters]
+
+[ At the house. ]
+
+Josephus: Hello, Mosheh, I came to help - how are you feeling?
+
+Mosheh: [Sheepishly.] Hello, Josephus.
+
+Josephus: OK, can you tell me what is bothering you? What are you thinking
+about at the moment?
+
+Mosheh: I realised I’m a sinner!
+
+Josephus: How so?
+
+Mosheh: I violated the tenth commandment - “You shall not covet”. I keep
+coveting the wives of other men.
+
+Josephus’ Voice: So I ended up telling him about how most Jewish scholars
+thought it was there as a general guideline so you avoid it getting out
+of control, and as a way to show you that you’ll always be a sinner, and
+so nothing to worry about.
+
+[Cut.]
+
+Mosheh: OK, that’s fine
 
 </s>
 
