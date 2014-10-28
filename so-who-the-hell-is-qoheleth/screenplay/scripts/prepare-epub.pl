@@ -13,6 +13,7 @@ my @images =
 (
     $gfx,
     'Friends-S02E04--Nothing-Sexier.svg.jpg',
+    'If-You-Wanna-Be-Sad.svg.jpg',
     'sigourney-weaver--resized.jpg',
     'summer-glau--two-guns--400w.jpg',
 );
