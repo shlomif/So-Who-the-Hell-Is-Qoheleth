@@ -1,4 +1,4 @@
-<s id="So-Who-the-Hell-is-Qoheleth" title="So, Who the Hell is Qoheleth?">
+<s id="So-Who-the-Hell-is-Qoheleth" lang="en" title="So, Who the Hell is Qoheleth?">
 
 <s id="about" title="About this screenplay">
 
