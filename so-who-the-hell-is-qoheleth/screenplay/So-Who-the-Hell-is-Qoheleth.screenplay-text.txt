@@ -239,9 +239,9 @@ Josephus: Wow! Rape. So what did you do?
 Athena: Well, we consulted between ourselves and after a long while of being
 really scared, we calmed down a little, and decided that if we are forced to
 have sex, we might as well cooperate and try to enjoy it. So we told them
-that we’ll do it willingly and they agreed.
+that we’ll do it willingly, and they agreed.
 
-Josephus: How clever of you! And then what happened.
+Josephus: How clever of you! And then what happened?
 
 Athena: Well, the three of us and her lover each found their own part of the
 woods, and we had sex. Then, after one or two times, the three men all
@@ -258,7 +258,7 @@ got better in love making as time went by, and they also taught us a little
 Aramaic. Then we arrived at the junction
 - they wanted to go to Assyria, and we wanted to head more south, and then
 all the 6 of us were completely emotional and offered each other to escort them
-on the way, so we won’t part, but we eventually cared enough about the
+on the way, so we won’t part. But we eventually cared enough about the
 others to let them go on their own way.
 
 Josephus: Wow! That sounds like love.
@@ -550,7 +550,9 @@ Selena: Do you really think you've lost it?
 
 [
 
-TODO: add <a href="https://www.youtube.com/watch?v=ERy-99vXxnM">"Like I
+<img src="images/friends--yeah-like-i-could-lose-it.svg.webp" alt="Snapshot from S04E07 of Friends" title="Yeah! Like I could lose it!" />
+
+From <a href="https://www.youtube.com/watch?v=ERy-99vXxnM">"Like I
 could lose it!" image macro from Friends' Ross Music episode</a>.
 
 ]
