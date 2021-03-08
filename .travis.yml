@@ -38,4 +38,3 @@ python:
     - "3.9"
 script:
     - . .travis.bash --cmd build
-sudo: required
