@@ -25,7 +25,7 @@ cache:
         - $HOME/tidyall_d
 
 os: linux
-dist: xenial
+dist: focal
 before_install:
     - . .travis.bash --cmd before_install
     - eval "$(perl -Mlocal::lib=$HOME/perl_modules)"
@@ -35,7 +35,7 @@ before_install:
 perl:
     - "5.26"
 python:
-    - "3.6"
+    - "3.9"
 script:
     - . .travis.bash --cmd build
 sudo: required
