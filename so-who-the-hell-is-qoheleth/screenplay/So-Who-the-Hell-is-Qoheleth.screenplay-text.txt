@@ -439,6 +439,17 @@ Josephus: Heh, maybe.
 
 <s id="alpha-beta-gamma-omega" title="The Alpha, The Beta and The Gamma↔Omega">
 
+<s id="alpha-beta-gamma-omega--first" title="The Alpha, The Beta and The Gamma↔Omega -- first mini-scene">
+
+[
+
+Recent <b>Note:</b> I now believe this split (inspired by <a href="https://ericsink.com/entries/hg_denzel.html">this blog post</a>
+and <a href="https://www.joelonsoftware.com/2012/07/">this one</a> )
+was a false lead and I'm planning future characters to be mostly Alphas.
+I'm keeping it here only as a plot element.
+
+]
+
 [Athena takes some wooden cards from her possessions, shuffles them, and puts
 them on the table.]
 
@@ -516,13 +527,18 @@ of Austria</a> from The Three Musketeers,
 from Star Trek DS9.
 ]
 
-Athena: OK, next card. Hmmm… that’s funny - it’s a card that’s indicative
-of something above and beyond the previous cards. I wonder what it could be…
+</s>
 
-Josephus: Above and beyond… above and beyond… oh my… there are many
-Alpha/Beta/Gamma↔Omega males and females - each in their own society and
-sub-society. But there is one person, or maybe a selected few above them…
-the Master Philosopher! The Hacker King!
+<s id="the-hacker-monarchs" title="The Hacker Monarchs">
+
+Athena: OK, next card. Hmmm… that’s funny - it’s a card that’s indicative
+of something above and beyond the previous cards. But not divine…
+I wonder what it could be…
+
+Josephus: Above and beyond but not divine… above and beyond… oh my… there are
+many Alpha/Beta/Gamma↔Omega males and females - each in their own society and
+sub-society. But there is one person, or maybe a selected few above them… the
+Master Philosopher! The Hacker King!
 
 +++: Moses, Cyrus, Socrates, Plato, Aristotle - they were all the Master
 philosophers. But who is he now? Who the hell is he?
@@ -560,11 +576,15 @@ could lose it!" image macro from Friends' Ross Music episode</a>.
 Josephus: You mean… I'm still a hacker king? A messiah?
 Wow!
 
-Selena: And tell you what: Athena, Alexis and I are in it too.
+Selena: And tell you what: Athena, Alexis, and I are in it too.
 
 Josephus: Welcome to the club.
 
-Athena: heh, we multiply.
+Athena: heh, we <a href="https://pancocojams.blogspot.com/2018/09/some-examples-of-line-we-dont-die-we.html">multiply</a>.
+
+</s>
+
+<s id="what-to-do-about-being-the-Damascus-alpha-male" title="What to do about being Damascus’ Alpha Male?">
 
 Josephus: In any case, following
 the publication of the scroll it seems I have become the most coveted male
@@ -592,8 +612,8 @@ Josephus: Interesting. I didn’t think of it.
 Athena: And the second thing you have to do is to marry one or more girls
 you like.
 
-Josephus: More than one? You know how they say that bigamy is having one
-wife too many.
+Josephus: More than one? You know how they say that bigamy is
+<a href="https://pancocojams.blogspot.com/2018/09/some-examples-of-line-we-dont-die-we.html">having one wife too many</a>.
 
 Athena: Well, monogamy is the same thing.
 
@@ -603,11 +623,16 @@ Josephus: I guess I should marry someone. Maybe Phoebe if she’s willing
 to convert to Judaism. She should be enough of a competition for the other
 girls to ward them off.
 
+</s>
+
+</s>
+
+<s id="josephus-and-the-trio-leaving-the-restaurant" title="Leaving">
+
 Josephus’ Voice: The day started to fade.
 
 Josephus: OK, I think I spent enough time with you here. I learned a lot from
-you so I won’t require payment. Perhaps I should be the one who is paying
-you. I need to go because people still need me as a physician and a
+you so I won’t require payment. Perhaps I <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=quora-learning-to-drum-at-65">should be the one who ought to pay</a>. I need to go because people still need me as a physician and a
 consultant, and they likely won’t be able to find me here.
 
 Athena: Well, maybe we can accompany you. We can put our caps on and the
