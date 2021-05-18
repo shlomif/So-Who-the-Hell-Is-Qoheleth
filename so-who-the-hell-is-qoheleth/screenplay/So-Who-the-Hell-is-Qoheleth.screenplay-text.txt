@@ -781,5 +781,29 @@ to share the amusing stuff the four of us learned today.
 
 </s>
 
+<s id="at-the-forum" title="At the forum">
+
+<s id="proposing-to-phoebe" title="Proposing to Phoebe">
+
+[ They enter the forum. Phoebe and her brothers are there. ]
+
+Phoebe: oh… there you are, Josephus! Stephan, please give him the freaking bet money
+already so that Shalom shall prevail upon the Earth.
+
+[ Stephan gives Josephus the bet money. ]
+
+Josephus: Thanks Stephan!
+
+Stephan: You are welcome.
+
+Phoebe: Are you going to introduce me to your friends?
+
+Josephus: Oh, their Greek names are Athena, Selena, and Alexis. They joined
+me in our quest to become master philosophers, a.k.a Messiahs.
+
+</s>
+
+</s>
+
 </s>
 
