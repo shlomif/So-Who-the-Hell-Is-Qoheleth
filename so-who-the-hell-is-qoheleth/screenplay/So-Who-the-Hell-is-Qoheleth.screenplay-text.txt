@@ -762,5 +762,24 @@ Alexis: Wow! So you cured him.
 
 </s>
 
+<s id="coast-is-clear" title="Coast is Clear">
+
+[ Hector approaches Josephus ]
+
+Hector: Hey Josephus!
+
+Josephus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow Messiahs!
+
+[ Hector bows. ]
+
+Josephus: Anyway, is there anyone too sick in Damascus today?
+
+Hector: Doesn't seem so - coast is clear.
+
+Josephus: Great… I presume the five of us can go to a forum then - I cannot wait
+to share the amusing stuff the four of us learned today.
+
+</s>
+
 </s>
 
