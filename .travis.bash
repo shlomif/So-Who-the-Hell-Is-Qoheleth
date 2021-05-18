@@ -31,7 +31,7 @@ then
             sudo dpkg-divert --local --divert /usr/bin/ack --rename --add /usr/bin/ack-grep
         fi
     fi
-    cpanm local::lib
+    cpanm --local-lib=~/perl_modules local::lib
 
 
 elif test "$cmd" = "install"
