@@ -857,6 +857,12 @@ Josephus: Take back what you just said!
 
 Josephus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts told me about the rape</a>. And it's not as if I wanted to resist. <a href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml">One does not simply say “no” to an Alpha Female.</a>
 
+[
+
+<img src="images/one-does-not-simply-say-no-to-an-alpha-female.svg.webp" alt="One does not simply say “no” to an Alpha Female." title="One does not simply say “no” to an Alpha Female." />
+
+]
+
 [ Phoebe lets go. ]
 
 Phoebe: I love men of action! And having raped you now, I can be forced to marry you.
