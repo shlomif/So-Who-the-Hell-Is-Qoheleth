@@ -875,7 +875,9 @@ of them aims his bow at Josephus .
 
 ]
 
-Guardl: I can kill you now, but I won't!
+Guard: I can kill you now, but I won't!
+
+Josephus: I believe you. What is it that you want from me?
 
 </s>
 
