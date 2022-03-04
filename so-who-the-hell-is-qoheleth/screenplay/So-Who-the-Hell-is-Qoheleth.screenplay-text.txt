@@ -103,9 +103,10 @@ Josephus’ Voice: Oh, great, Egyptians! Widely considered to be the most
 desirable and beautiful girls. Stay strong, Josephus, act
 nonchalantly - just ignore them.
 
-[ He passed by them only to hear one say
+[He passes by them only to hear one say
 «A good name is better than good oil» (
-http://biblehub.com/ecclesiastes/7-1.htm ) in perfect Aramaic.]
+<a href="http://biblehub.com/ecclesiastes/7-1.htm">Ecclesiastes 7:1</a>
+) in perfect Aramaic.]
 
 Josephus: Oh! God help Me! [Out loud while trying to obscure his view.]
 
@@ -509,7 +510,11 @@ marriage may make her the Beta female emerita, but only time can tell. She
 and I flirted a few times since I published “Qoheleth”. And she did hint that
 Phoebe wants me.
 
-[ <b>Note:</b> challenge accepted, and won! <a href="https://en.wikipedia.org/wiki/Bar_Refaeli">Bar Refaeli</a> is now happily married and still coveted and featured in conversations.  ]
+[
+
+<b>Note:</b> challenge accepted, and won! <a href="https://en.wikipedia.org/wiki/Bar_Refaeli">Bar Refaeli</a> is now happily married and still coveted and featured in conversations.
+
+]
 
 Athena: OK, fair enough. Now next. Hmm… it’s a card of complete consumption,
 so seems like it be will be “The Gamma all the way to the Omega”. Who is she?
@@ -527,6 +532,7 @@ of Austria</a> from The Three Musketeers,
 <a href="http://buffy.wikia.com/wiki/Cordelia_Chase">Cordelia Chase from Buffy</a>,
 <a href="http://en.memory-alpha.org/wiki/Keiko_O%27Brien">Keiko O’Brien</a>
 from Star Trek DS9.
+
 ]
 
 </s>
@@ -576,7 +582,8 @@ could lose it!" image macro from Friends' Ross Music episode</a>.
 ]
 
 Josephus: You mean… I'm still a hacker king? A messiah?
-Wow!
+
++++: Wow!
 
 Selena: And tell you what: Athena, Alexis, and I are in it too.
 
@@ -615,7 +622,7 @@ Athena: And the second thing you have to do is to marry one or more girls
 you like.
 
 Josephus: More than one? You know how they say that bigamy is
-<a href="https://pancocojams.blogspot.com/2018/09/some-examples-of-line-we-dont-die-we.html">having one wife too many</a>.
+<a href="https://quoteinvestigator.com/2014/07/16/bigamy/">having one wife too many</a>.
 
 Athena: Well, monogamy is the same thing.
 
@@ -843,7 +850,7 @@ Messiah?)! I am fortunate enough to be her fiancé.
 
 +++: OK: [to the forum] Everyone, I, Josephus, am about to marry Phoebe, whom you know as the most coveted female in Damascus, after she converts to Judaism.
 
-[ Applause from the audience. ]
+[Applause from the audience.]
 
 David: Hey, the "Qoheleth" Josephus is about to marry <a href="https://en.wikipedia.org/wiki/Goy">a goyah</a>!
 
@@ -861,7 +868,7 @@ David: Fine, you'll marry a "gerra" ( "גרה" ).
 
 Josephus: fine.
 
-[ He thinks for a moment. ]
+[He thinks for a moment.]
 
 Josephus: Maybe we should have a conspiracy … of goys… pluralistic. Let's call it <a href="https://buffyfanfiction.fandom.com/wiki/The_Neo-Tech_conspiracy_for_establishing_the_Semitic_culture">The Neo-Tech conspiracy for establishing the Semitic culture</a>.
 
