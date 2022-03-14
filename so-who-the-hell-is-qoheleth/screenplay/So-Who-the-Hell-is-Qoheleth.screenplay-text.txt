@@ -823,7 +823,7 @@ Phoebe: [thinks for a moment] yeah, yeah, alright! [Unenthusiastically.]
 
 Josephus: done then! Though you do not seem too kin on the idea.
 
-+++: Why?
++++: Why aren't you?
 
 Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cXr2kF0zEgI">It's too easy</a> if you ask me…
 
@@ -885,6 +885,16 @@ of them aims his bow at Josephus .
 Guard: I can kill you now, but I won't!
 
 Josephus: I believe you. What is it that you want from me?
+
+</s>
+
+<s id="liberation-of-Damascus" title="The Liberation of Damascus">
+
+[
+
+The Princess
+
+]
 
 </s>
 
