@@ -505,7 +505,7 @@ She’s more respected than the Alpha female, and some men find her more
 attractive. She’s featured in conversations less, and people assume there’s a
 rivalry between her and the Alpha female.
 
-+++: In Damascus’ case, it is the Princess. She’s already engaged, and her
++++: In Damascus’ case, it is the princess. She’s already engaged, and her
 marriage may make her the Beta female emerita, but only time can tell. She
 and I flirted a few times since I published “Qoheleth”. And she did hint that
 Phoebe wants me.
@@ -892,9 +892,31 @@ Josephus: I believe you. What is it that you want from me?
 
 [
 
-The Princess
+The princess approaches:
 
 ]
+
+Princess: initiate time wrap for up to 3 hours or cancellation, please! [she waves her wand.]
+
+[
+
+Athena is greyed out.
+
+Q, dressed in a uniform of the Damascus royal guards,
+<a href="https://memory-alpha.fandom.com/wiki/Quark">Quark</a>,
+<a href="https://stexpanded.fandom.com/wiki/George_the_Cat">George the cat</a>,
+and <a href="https://stexpanded.fandom.com/wiki/Q2">Q2</a>
+approach.
+
+]
+
+Josephus: whoa, you guys are real?
+
+Q: only the best for the baddest.
+
+Josephus: why is Athena greyed out?
+
+Selena: she is the only non-wizard here.
 
 </s>
 
