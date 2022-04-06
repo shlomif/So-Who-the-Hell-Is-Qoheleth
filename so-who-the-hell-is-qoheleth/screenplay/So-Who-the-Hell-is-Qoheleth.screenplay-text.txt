@@ -936,6 +936,14 @@ Phoebe, but she admitted inferiority to Josephus and his team here after
 he wrote the scroll of Qoheleth. He in turn was slain by Athena, thus
 liberating Damascus and unifying Syria.
 
+Q: You are now a wizard (a.k.a "a true prophet"), Josephus. Here are your magic
+wand, <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dice
+set</a>, and a book that provides access to learning resources. You have a
+quota of 100 spells per day; while you can in theory wish for anything, you
+must no be under the influence of drugs, and mus really mean it.
+
+Q: The book has more guidelines.
+
 </s>
 
 <s id="phoebe-marks-her-territory" title="Phoebe marks her territory">
