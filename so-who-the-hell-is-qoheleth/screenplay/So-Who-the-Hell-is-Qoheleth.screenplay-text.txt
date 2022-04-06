@@ -947,6 +947,17 @@ it.  The book has more guidelines.
 
 </s>
 
+<s id="the-scroll-vs-the-rules-of-acquisition" title="Vs. The Rules of Acquisition">
+
+Quark: You know, Josephus, <q>cast your bread upon the water</q>
+seems to contradict <a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition">Rule of
+Acquisition No. 1</a>: <q>Once you have their money, never give it back.</q>
+
+Josephus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">to everything there
+is a time</a>, including to paraphrase on what one had published.
+
+</s>
+
 <s id="phoebe-marks-her-territory" title="Phoebe marks her territory">
 
 [ Phoebe rushes towards Josephus, and kisses him passionately. The crowd cheers. ]
