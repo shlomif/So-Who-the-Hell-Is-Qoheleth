@@ -958,6 +958,16 @@ is a time</a>, including to paraphrase on what one had published.
 
 </s>
 
+<s id="athena-s-son" title="Athena’s son">
+
+Princess: We hoped Athena would get slain, as she's been a vampire for over
+200 years, and has liberated many provinces and mystical capitals in Europe.
+
++++: But not all is lost. See: she and the vampire you have conceived a
+vampire son,
+
+</s>
+
 <s id="phoebe-marks-her-territory" title="Phoebe marks her territory">
 
 [ Phoebe rushes towards Josephus, and kisses him passionately. The crowd cheers. ]
