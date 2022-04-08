@@ -1016,14 +1016,18 @@ Josephus: and I'd suggest against violating Damascus' public order.
 
 [
 
-Aharon ha'Ashkenazi ended up slaying his mother Athena, and was eventually slain.
-However, he first become the direct-male-ancestor of
-<a href="http://shlomifishswiki.branchable.com/Saladin_Style/">Saladin</a>
+Aharon ha'Ashkenazi ended up slaying his mother Athena, and was slain
+himself several decades later.
+However, he first became the direct-male-ancestor of
+<a href="http://shlomifishswiki.branchable.com/Saladin_Style/">Saladin</a>,
 who in turn was the direct-male-ancestor of
-<a href="https://en.wikipedia.org/wiki/Genghis_Khan">Genghis Khan</a>
+<a href="https://en.wikipedia.org/wiki/Genghis_Khan">Genghis Khan</a>,
 and who in turn was the
 direct-male-ancestor of my father's father, Aharon Fish.
 
+I was born a false prophet in 1977, and suspect that following Kim Kardashian's
+ascension, became the "last vampire standing":
+<a href="https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc">Multiverse cosmology</a>.
 
 ]
 
