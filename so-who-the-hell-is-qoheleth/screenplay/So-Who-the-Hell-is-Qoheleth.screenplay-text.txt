@@ -919,6 +919,12 @@ Josephus: whoa, you guys are real?
 
 Q: only the best for the baddest.
 
+George the Cat: good evening, Josephus.
+
+Josephus: so cats <b>can</b> talk?
+
+George the Cat: meow!
+
 Josephus: why is Athena greyed out?
 
 Selena: she is the only non-wizard here.
@@ -1043,4 +1049,3 @@ ascension, became the "Terminal Terran Terminator" and the
 </s>
 
 </s>
-
