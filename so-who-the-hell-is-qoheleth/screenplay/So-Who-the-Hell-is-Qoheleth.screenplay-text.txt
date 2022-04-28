@@ -548,7 +548,7 @@ many Alpha/Beta/Gamma↔Omega males and females - each in their own society and
 sub-society. But there is one person, or maybe a selected few above them… the
 Master Philosopher! The Hacker King!
 
-+++: Moses, Cyrus, Socrates, Plato, Aristotle - they were all the Master
++++: Moses, <a href="https://en.wikipedia.org/wiki/Cyrus_the_Great">Cyrus the Great</a>, <a href="https://en.wikipedia.org/wiki/Socrates">Socrates</a>, Plato, Aristotle - they were all the Master
 philosophers. But who is he now? Who the hell is he?
 
 +++: Who the hell is… the Qoheleth?
@@ -613,7 +613,7 @@ even more.
 Josephus: Yes, I guess you are right. But what can I do?
 
 Athena: Well, one thing is to take it the right way. The
-<a href="http://en.wikipedia.org/wiki/Stoicism">Stoic</a> way. They want you—
+<a href="http://en.wikipedia.org/wiki/Stoicism">Stoic</a> way. They want you —
 just live with it and even try to enjoy it.
 
 Josephus: Interesting. I didn’t think of it.
@@ -1028,11 +1028,14 @@ However, he first became the direct-male-ancestor of
 <a href="http://shlomifishswiki.branchable.com/Saladin_Style/">Saladin</a>,
 who in turn was the direct-male-ancestor of
 <a href="https://en.wikipedia.org/wiki/Genghis_Khan">Genghis Khan</a>,
-and who in turn was the
+who in turn was the
 direct-male-ancestor of my father's father, Aharon Fish.
+He also cofounded <a href="https://en.wikipedia.org/wiki/Ashkenazi_Jews">Ashkenazi Judaism</a>.
 
-I was born a false prophet in 1977, and suspect that following Kim Kardashian's
-ascension, became the "last vampire standing":
+I was born a false prophet in 1977, and suspect that following
+<a href="https://en.wikipedia.org/wiki/Kim_Kardashian">Kim Kardashian’s</a>
+ascension, became the "Terminal Terran Terminator" and the
+"last vampire standing":
 <a href="https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc">Multiverse cosmology</a>.
 
 ]
