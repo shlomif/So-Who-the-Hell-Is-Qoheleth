@@ -517,7 +517,7 @@ Phoebe wants me.
 ]
 
 Athena: OK, fair enough. Now next. Hmm… it’s a card of complete consumption,
-so seems like it be will be “The Gamma all the way to the Omega”. Who is she?
+so seems like it will be “The Gamma all the way to the Omega”. Who is she?
 
 Josephus: Gamma-to-Omega? Hmmm… yes! The Gamma↔Omega female— the one
 who is sheepish, always gets herself and everyone else into trouble,
@@ -740,7 +740,7 @@ about it. Just let the feeling sulk.
 
 [ Mosheh is thinking for a moment. ]
 
-Mosheh: Wow! Tell you what, Josephus? I feel good now.
+Mosheh: Wow! Tell you what, Josephus? I feel happy now.
 
 Josephus: Really?
 
@@ -887,7 +887,7 @@ of them aims his bow at Josephus .
 
 ]
 
-Guard: I can kill you now, but I won't!
+Guard: I can shoot you now, but I won't!
 
 Josephus: I believe you. What is it that you want from me?
 
@@ -929,7 +929,7 @@ Josephus: why is Athena greyed out?
 
 Selena: she is the only non-wizard here.
 
-Princess: To quote The-Codex: <q>A vampire can only be slain by other vampires,
+Princess: To quote The-Codex™: <q>A vampire can only be slain by other vampires,
 except for the last standing vampire who will be slain by his favourite
 children.</q>.
 
@@ -948,7 +948,7 @@ he wrote the scroll of Qoheleth. He in turn was slain by Athena, thus
 liberating Damascus and unifying Syria.
 
 Q: You are now a wizard (a.k.a "a true prophet"), Josephus. Here are your magic
-wand, <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dice
+wand, your <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dice
 set</a>, and a book that provides access to learning resources. Do not
 worry about losing them - they are going to follow you.
 
@@ -965,7 +965,7 @@ seems to contradict <a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acqui
 Acquisition No. 1</a>: <q>Once you have their money, never give it back.</q>
 
 Josephus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">to everything there
-is a time</a>, including to paraphrase on what oneself wrote and published
+is a time</a>, including to paraphrase on what oneself had written and published
 earlier.
 
 </s>
@@ -1026,7 +1026,7 @@ Athena: oww! You two make such a lovely couple.
 
 +++: But we'd better get some sleep before our convoy leaves tomorrow. Bye!
 
-[ As the Celtic trio leaves, Selena and Alexis blow one kiss in the air each.
+[ As the Celtic trio leaves, Selena and Alexis each blow one kiss in the air.
 
 Josephus waves.
 
@@ -1054,7 +1054,7 @@ I was born a false prophet in 1977, and suspect that following
 <a href="https://en.wikipedia.org/wiki/Kim_Kardashian">Kim Kardashian’s</a>
 ascension, became the "Terminal Terran Terminator" and the
 "last vampire standing":
-<a href="https://github.com/shlomif/shlomif-tech-diary/blob/master/multiverse-cosmology-v0.4.x.asciidoc">Multiverse cosmology</a>.
+<a href="https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/">Multiverse cosmology</a>.
 
 ]
 
