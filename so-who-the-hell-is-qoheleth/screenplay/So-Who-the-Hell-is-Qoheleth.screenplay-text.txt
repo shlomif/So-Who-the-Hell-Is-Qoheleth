@@ -290,7 +290,7 @@ Athena: Not on your life! We wanted them more! And more badly!
 
 [
 
-<img src="images/Friends-S02E04--Nothing-Sexier.svg.jpg" alt="Snapshot from S02E04 of Friends" title="Let me tell you something. As a woman, there is nothing sexier than a man who does not want to have sex." />
+<img src="images/Friends-S02E04--Nothing-Sexier.svg.webp" alt="Snapshot from S02E04 of Friends" title="Let me tell you something. As a woman, there is nothing sexier than a man who does not want to have sex." />
 
 From <a href="http://ufwebsite.tripod.com/scripts/204towph.htm">Friends Series 2 Episode 4</a>.
 
