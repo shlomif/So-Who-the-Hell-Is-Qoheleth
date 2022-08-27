@@ -929,9 +929,8 @@ Josephus: why is Athena greyed out?
 
 Selena: she is the only non-wizard here.
 
-Princess: To quote The-Codex™: <q>A vampire can only be slain by other vampires,
-except for the last standing vampire who will be slain by his favourite
-children.</q>.
+Princess: To quote The-Codex™: <q>A vampire can only be slain by another vampire,
+except for the last standing vampire who will be slain by his favourite child.</q>.
 
 +++: Moreover, in order to “liberate” a locality, or later its mystical capital,
 their master vampire must be slain by a foreigner.
@@ -1048,7 +1047,7 @@ who in turn was the direct-male-ancestor of
 <a href="https://en.wikipedia.org/wiki/Genghis_Khan">Genghis Khan</a>,
 who in turn was the
 direct-male-ancestor of my father's father, Aharon Fish.
-He also cofounded <a href="https://en.wikipedia.org/wiki/Ashkenazi_Jews">Ashkenazi Judaism</a>.
+He also was one of the founders of <a href="https://en.wikipedia.org/wiki/Ashkenazi_Jews">Ashkenazi Judaism</a>.
 
 Josephus Flavius is/was the direct-male-descendent of
 <a href="https://en.wikipedia.org/wiki/Joshua">Yehoshua bin-Nun ("Joshua")</a>,
