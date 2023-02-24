@@ -271,8 +271,8 @@ Athena: Love! Yes! That’s the word.
 
 <s id="celts_trip__non_seducable_jewish_merchants" title="The Non-seducable Jewish Merchants">
 
-Athena: Anyway, then we hitched a ride with a band of Greek merchants. The boys
-there were easy and we all liked each other, so we had a lot of sex, and
+Athena: Anyway, then we hitchhiked a ride with a band of Greek merchants. The
+boys there were easy and we all liked each other, so we had a lot of sex, and
 we learned even more Aramaic from them.
 
 Josephus: Did you fall in love with them too?
@@ -907,7 +907,7 @@ Princess: initiate time wrap for up to 3 hours or until cancellation, please! [s
 
 Athena is greyed out.
 
-Q, dressed in a uniform of the Damascus royal guards,
+<a href="https://memory-alpha.fandom.com/wiki/Q">Q</a>, dressed in a uniform of the Damascus royal guards,
 <a href="https://memory-alpha.fandom.com/wiki/Quark">Quark</a>,
 <a href="https://stexpanded.fandom.com/wiki/George_the_Cat">George the cat</a>,
 and <a href="https://stexpanded.fandom.com/wiki/Q2">Q2</a>
@@ -1056,7 +1056,7 @@ He also was one of the founders of <a href="https://en.wikipedia.org/wiki/Ashken
 
 Josephus Flavius is/was the direct-male-descendent of
 <a href="https://en.wikipedia.org/wiki/Joshua">Yehoshua bin-Nun ("Joshua")</a>,
-who was the spiritual son of Joseph.
+who was the spiritual son of <a href="https://en.wikipedia.org/wiki/Joseph_(Genesis)">Joseph</a>.
 
 I was born a false prophet in 1977, and suspect that following
 <a href="https://en.wikipedia.org/wiki/Kim_Kardashian">Kim Kardashian’s</a>
