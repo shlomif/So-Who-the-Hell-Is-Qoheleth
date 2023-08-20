@@ -956,7 +956,7 @@ it, and must not be possessed or otherwise obsessed. The book has more guideline
 
 </s>
 
-<s id="the-scroll-vs-the-rules-of-acquisition" title="Vs. The Rules of Acquisition">
+<s id="the-scroll-vs-the-rules-of-acquisition" title="The scroll vs. The Rules of Acquisition">
 
 Quark: You know, Josephus, <q>cast your bread upon the water</q>
 [ <a href="https://biblehub.com/ecclesiastes/11-1.htm">Reference</a> ]
@@ -1013,7 +1013,7 @@ Josephus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts
 
 Phoebe: I love men of action! And having raped you now, I can now be forced to marry you.
 
-Josephus: well… unfortunately for you, Jewish scholars have restricted rape to more… <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">up base</a>… sexual acts
+Josephus: well… unfortunately for you, Jewish scholars have restricted rape to more… <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">up base</a>… sexual acts.
 
 Phoebe: Well, there's more where it came from…
 
@@ -1039,7 +1039,7 @@ Josephus waves.
 
 [
 
-Aharon ha'Ashkenazi ended up slaying his mother Athena, and was slain
+Aharon ha'Ashkenazi ended up slaying his mother, Athena, and was slain
 himself several decades later.
 However, he first became the direct-male-ancestor of
 Jesus,
