@@ -333,8 +333,8 @@ Athena: OK, just know that it’s nothing personal: we decided against having
 sex completely, shortly after hearing your Qoheleth thing.
 
 Josephus: Really? But didn’t I say
-<a href="http://www.sacred-texts.com/bib/poly/ecc011.htm">Young man,
-be joyful in your youth</a> there?
+<a href="http://www.sacred-texts.com/bib/poly/ecc011.htm">“Young man,
+be joyful in your youth”</a> there?
 
 Athena: That you did, but something else there made us realise that sex
 is not worth the risk of getting pregnant. So we’re going to wait with it
@@ -388,7 +388,7 @@ knife in the opposite direction to the wall.]
 
 Josephus: Hold it, she’s not in the right direction
 
-[Selena quickly turns away, throws the knife and hits the X.]
+[Selena quickly turns, throws the knife and hits the X.]
 
 Josephus: Wow!
 
@@ -576,7 +576,7 @@ Selena: Do you really think you've lost it?
 
 <img src="images/friends--yeah-like-i-could-lose-it.svg.webp" alt="Snapshot from S04E07 of Friends" title="Yeah! Like I could lose it!" />
 
-From <a href="https://www.youtube.com/watch?v=ERy-99vXxnM">"Like I
+<a href="https://www.youtube.com/watch?v=ERy-99vXxnM">"Like I
 could lose it!" image macro from Friends' Ross Music episode</a>.
 
 ]
@@ -674,7 +674,7 @@ Alexis: I see.
 
 Girl: [Teasingly] Hello, Josephus.
 
-Josephus: [Also teasingly] Hello ladies!
+Josephus: [Also teasingly] Hello, ladies!
 
 [The girls burst out laughing. Josephus and the Celts join them and they
 pass through. ]
@@ -763,7 +763,7 @@ shouting.]
 
 Old Woman: Necromancer! Defiers of God!
 
-People from the crowd: Knock it off lady.
+People from the crowd: Knock it off, lady!
 
 [Cut to the scene with the Celts.]
 
@@ -833,7 +833,7 @@ Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cX
 
 ]
 
-Phoebe: Man is an underrated entertainer (= philosopher); man writes a work of Philosophy, which although repetitive, is short and contains many gems; I'll give it a 9 out of 10.
+Phoebe: Man is an underrated entertainer (= philosopher); man writes a work of philosophy, which although repetitive, is short and contains many gems; I'll give it a 9 out of 10.
 
 Josephus: ha!
 
@@ -849,8 +849,8 @@ able to have sex with her, and so that she'll ward off competition.
 
 +++: We all heard this story many times. <a href="https://biblehub.com/ecclesiastes/1-9.htm">There is nothing new under the sun</a>.
 
-Josephus: Ha! An Alpha Female makes a truly Alpha Philosopher (or even an Alpha
-Messiah?)! I am fortunate enough to be her fiancé.
+Josephus: Ha! An alpha female makes a truly alpha philosopher (or even an alpha
+messiah?)! I am fortunate enough to be her fiancé.
 
 +++: OK: [to the forum] Everyone, I, Josephus, am about to marry Phoebe, whom you know as the most coveted female in Damascus, after she converts to Judaism.
 
@@ -862,10 +862,9 @@ Josephus: Take back what you just said!
 
 David: Hey, please don't hit me, man!
 
-Josephus: I'm not going to hit you, I just detest calling a non-Jew "a goy", which
-meant "a people" or "a nation" in the Torah.
-The Jews are just one of many peoples. No wonder people think we have
-some kind of
+Josephus: I'm not going to hit you, I just detest calling a non-Jew "a goy",
+which meant "a people" or "a nation" in the Torah.  The Jews are just one of
+many peoples. No wonder people think we have some kind of
 <a href="https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion">a
 sinister world-domination conspiracy</a>.
 
@@ -950,7 +949,7 @@ wand, your <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dic
 set</a>, and a book that provides access to learning resources. Do not
 worry about losing them - they are going to follow you.
 
-Q: You have a quota of 100 spells per day; while you can in theory wish for
+Q: You have a quota of two spells per day; while you can in theory wish for
 anything, you must not be under the influence of drugs, must really mean
 it, and must not be possessed or otherwise obsessed. The book has more guidelines.
 
