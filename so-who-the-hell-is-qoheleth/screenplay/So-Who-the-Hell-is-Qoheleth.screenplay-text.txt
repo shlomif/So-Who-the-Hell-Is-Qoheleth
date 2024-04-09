@@ -104,7 +104,7 @@ desirable and beautiful girls. Stay strong, Josephus, act
 nonchalantly - just ignore them.
 
 [He passes by them only to hear one say
-«A good name is better than good oil» (
+“A good name is better than good oil” (
 <a href="http://biblehub.com/ecclesiastes/7-1.htm">Ecclesiastes 7:1</a>
 ) in perfect Aramaic.]
 
@@ -676,11 +676,11 @@ Girl: [Teasingly] Hello, Josephus.
 
 Josephus: [Also teasingly] Hello, ladies!
 
-[The girls burst out laughing. Josephus and the Celts join them and they
+[ The girls burst out laughing. Josephus and the Celts join them and they
 pass through. ]
 
-Josephus: Heh, you were right — it does not feel as badly as before, if you change
-your attitude.
+Josephus: Heh, you were right; it does not feel as badly as before, if you
+change your attitude.
 
 Athena: Yeah.
 
@@ -734,7 +734,7 @@ about it. Just let the feeling sulk.
 
 [
 
-<img src="images/If-You-Wanna-Be-Sad.svg.jpg" alt="Simpsons - “If you wanna be sad”" title="“If you wanna be sad, be sad!”" />
+<img src="images/If-You-Wanna-Be-Sad.svg.jpg" alt="Simpsons - “If you wanna be sad, be sad!”" title="“If you wanna be sad, be sad!”" />
 
 ]
 
@@ -751,7 +751,7 @@ my finest sheep for you. And wait a second [he goes to the other room.]
 
 Josephus: Wow! Gold! [Showing the coins.]
 
-+++: OK, my Greek friend, Hector the philosopher provided some guidance
++++: OK, my Greek friend, Hector the philosopher, provided some guidance
 for curing you. Can he also be invited?
 
 Mosheh: He will be served outside, being a gentile and all.
@@ -773,17 +773,17 @@ Alexis: Wow! So you cured him.
 
 <s id="coast-is-clear" title="Coast is Clear">
 
-[ Hector approaches Josephus ]
+[ Hector approaches Josephus. ]
 
 Hector: Hey Josephus!
 
-Josephus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow Messiahs!
+Josephus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow messiahs!
 
 [ Hector bows. ]
 
 Josephus: Anyway, is there anyone too sick in Damascus today?
 
-Hector: Doesn't seem so - coast is clear.
+Hector: Doesn't seem so. Coast is clear.
 
 Josephus: Great… I presume the five of us can go to a forum then - I cannot wait
 to share the amusing stuff the four of us learned today.
@@ -805,15 +805,15 @@ Josephus: Thanks, Stephan!
 
 Stephan: You are welcome. <a href="https://www.answers.com/Q/What_does_et_in_terra_pax_hominibus_bonae_voluntatis_mean">And good will among men!</a>.
 
-[ Phoebe looks in the direction of the three Celtic girls. ]
+[ Phoebe looks in the direction of the three Celts. ]
 
 Phoebe: Are you going to introduce me to your friends?
 
 Josephus: Oh, they are Celtic travellers, their Greek names are Athena, Selena,
 and Alexis. A talk with them inspired some further philosophical insights.
 
-+++: They joined me in our quest to become master philosophers, a.k.a
-Messiahs.
++++: They joined me in our quest to become master philosophers, also-known-as
+“messiahs”.
 
 Phoebe: awesome!
 
@@ -821,11 +821,11 @@ Josephus: And while we are here: Phoebe, will you convert to Judaism and marry m
 
 Phoebe: [thinks for a moment] yeah, yeah, alright! [Unenthusiastically.]
 
-Josephus: done then! Though you do not seem too keen on the idea.
+Josephus: Done then! Though you do not seem too keen on the idea.
 
 +++: Why aren't you?
 
-Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cXr2kF0zEgI">It's too easy</a> if you ask me…
+Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cXr2kF0zEgI">It's too easy</a>, if you ask me…
 
 [
 
@@ -847,10 +847,10 @@ Phoebe: “Alpha Male”… <a href="https://en.wikiquote.org/wiki/Histeria!">I 
 him; Man wishes to marry The Diva… The Alpha Female, I suppose, so he will be
 able to have sex with her, and so that she'll ward off competition.
 
-+++: We all heard this story many times. <a href="https://biblehub.com/ecclesiastes/1-9.htm">There is nothing new under the sun</a>.
++++: We all heard this story many times. There is nothing new under the sun. [ <a href="https://biblehub.com/ecclesiastes/1-9.htm">Reference: Ecclesiastes 1:9</a>. ]
 
-Josephus: Ha! An alpha female makes a truly alpha philosopher (or even an alpha
-messiah?)! I am fortunate enough to be her fiancé.
+Josephus: Ha! An alpha female makes a truly alpha philosopher! (Or even an alpha
+messiah?!) I am fortunate enough to be her fiancé.
 
 +++: OK: [to the forum] Everyone, I, Josephus, am about to marry Phoebe, whom you know as the most coveted female in Damascus, after she converts to Judaism.
 
@@ -928,7 +928,7 @@ Josephus: why is Athena greyed out?
 
 Selena: she is the only non-wizard here.
 
-Princess: To quote TheCodex™: <q>A vampire can only be slain by another vampire, except for the last standing vampire who will be slain by the child of his two favourite children.</q>.
+Princess: To quote TheCodex™ of TheGame™ of Fantastecha™: <q>A vampire can only be slain by another vampire, except for the last standing vampire of every age who will be slain by the child of his two favourite children.</q>.
 
 +++: Moreover, in order to “liberate” a locality, or later its mystical capital,
 their master vampire must be slain by a foreigner.
@@ -944,25 +944,26 @@ Phoebe, but she admitted inferiority to Josephus and his team here after
 he wrote the scroll of Qoheleth. He in turn was slain by Athena, thus
 liberating Damascus and unifying Syria.
 
-Q: You are now a wizard (a.k.a "a true prophet"), Josephus. Here are your magic
+Q: You are now a wizard (also-known-as "a true prophet"), Josephus. Here are your magic
 wand, your <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dice
 set</a>, and a book that provides access to learning resources. Do not
 worry about losing them - they are going to follow you.
 
-Q: You have a quota of two spells per day; while you can in theory wish for
-anything, you must not be under the influence of drugs, must really mean
-it, and must not be possessed or otherwise obsessed. The book has more guidelines.
+Q: You have a quota of two spells per day; while you can hypothetically wish
+for anything, you must not be under the influence of drugs, must really mean
+it, and must not be possessed or otherwise obsessed. The book has more
+guidelines.
 
 </s>
 
 <s id="the-scroll-vs-the-rules-of-acquisition" title="The scroll vs. The Rules of Acquisition">
 
 Quark: You know, Josephus, <q>cast your bread upon the water</q>
-[ <a href="https://biblehub.com/ecclesiastes/11-1.htm">Reference</a> ]
-seems to contradict <a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition">Rule of
+[ <a href="https://biblehub.com/ecclesiastes/11-1.htm">Reference: Ecclesiastes 11:1</a> ]
+seems to contradict <a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition">the Rule of
 Acquisition No. 1</a>: <q>Once you have their money, never give it back.</q>
 
-Josephus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">to everything there
+Josephus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">To everything there
 is a time</a>, including to paraphrase on what oneself had written and published
 earlier.
 
@@ -978,9 +979,9 @@ vampire son, who will be raised by your echoes, and who will combine the
 <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml">philosophies</a>
 of the two of you. You now have the opportunity to tell them what to do.
 
-Josephus: [after thinking for a moment] Call the newborn Aharon Ashkenazius… Aharon
-ha'Ashkenazi. Return to Athena's village and project a European, Greek-Celtic, take
-on Judaism.
+Josephus: [after thinking for a moment] Call the newborn Aharon Ashkenazius…
+Aharon ha'Ashkenazi. Return to Athena's village and project a European,
+Greek-Celtic, take on Judaism.
 
 [
 
@@ -1010,7 +1011,7 @@ Josephus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts
 
 [ Phoebe lets go. ]
 
-Phoebe: I love men of action! And having raped you now, I can now be forced to marry you.
+Phoebe: I love men of action! And - having raped you now - I can now be forced to marry you.
 
 Josephus: well… unfortunately for you, Jewish scholars have restricted rape to more… <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">up base</a>… sexual acts.
 
@@ -1041,7 +1042,7 @@ Josephus waves.
 Aharon ha'Ashkenazi ended up slaying his mother, Athena, and was slain
 himself several decades later.
 However, he first became the direct-male-ancestor of
-Jesus,
+<a href="https://en.wikipedia.org/wiki/Jesus">Jesus</a>,
 who in turn was the direct-male-ancestor of
 <a href="https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#zionism">the Rav Ovadia Yosef</a>,
 who in turn was the direct-male-ancestor of
@@ -1058,7 +1059,7 @@ who was the spiritual son of <a href="https://en.wikipedia.org/wiki/Joseph_(Gene
 
 I was born a false prophet in 1977, and suspect that following
 <a href="https://en.wikipedia.org/wiki/Kim_Kardashian">Kim Kardashian’s</a>
-ascension, became the "Terminal Terran Terminator" and the
+ascension, I became the "Terminal Terran Terminator" and the
 "last vampire standing":
 <a href="https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/">Multiverse cosmology</a>.
 
