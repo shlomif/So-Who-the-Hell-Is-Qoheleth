@@ -29,7 +29,7 @@ or "what is/will be".
 
 </s>
 
-<s id="introducing-josephus" title="Introducing Josephus">
+<s id="introducing-josephus" title="Introducing Josefus">
 
 [Black screen. Initial Credits.]
 
@@ -37,17 +37,17 @@ or "what is/will be".
 
 Voice of Jacob: So, who the hell is Qoheleth?
 
-[Showing Josephus.]
+[Showing Josefus.]
 
-Josephus: I’m getting asked that a lot. It could be King Solomon - it
+Josefus: I’m getting asked that a lot. It could be King Solomon - it
 could be someone else.
 
 Jacob: Yes, I see now. Anyway, as blasphemous as this Qoheleth thing of yours
 is - it brought great appreciation to the Jews of this town. Respect!
 
-[ Jacob hits Josephus on the shoulder - Josephus sways a little. ]
+[ Jacob hits Josefus on the shoulder - Josefus sways a little. ]
 
-Josephus: Thank you! Anyway, do not take it too seriously - it’s just cheap
+Josefus: Thank you! Anyway, do not take it too seriously - it’s just cheap
 entertainment, as philosophy goes.
 
 Jacob: Cheap or not, philosophy is big business, and who knows - it may
@@ -60,13 +60,13 @@ Illustration: <img src="images/Standup-Philosopher.svg.webp" alt="Standup-Philos
 
 ]
 
-Josephus: Yes, maybe, and it’s definitely fun.
+Josefus: Yes, maybe, and it’s definitely fun.
 
 Jacob: Well, we’d better be going - was nice running into you.
 
-[They part. Josephus’ Voice == Josephus’ Monologue. ]
+[They part. Josefus’ Voice == Josefus’ Monologue. ]
 
-Josephus’ Voice: So here it is. My name is Yoseph in Hebrew or Josephus in
+Josefus’ Voice: So here it is. My name is Yoseph in Hebrew or Josefus in
 Greek.  I lived in Damascus my whole life, and received both Jewish and Greek
 education. I’m still unmarried, virginal, and under constant pressure from my
 family to marry a nice Jewish girl, and have children.
@@ -87,20 +87,20 @@ the bet money which is quite dwarfed by what I have now.
 
 +++: That’s not the worst part.
 
-[ Scene showing many attractive girls pointing at Josephus, smiling, giggling
+[ Scene showing many attractive girls pointing at Josefus, smiling, giggling
 and lusting him. ]
 
-Josephus’ Voice: They all want me!
+Josefus’ Voice: They all want me!
 
 </s>
 
 <s id="egyptian_girls" title="The Egyptian Girls">
 
-[ Josephus eyes three attractive Egyptian girls, pointing at him and
+[ Josefus eye catches three attractive Egyptian girls, pointing at him and
 giggling. ]
 
-Josephus’ Voice: Oh, great, Egyptians! Widely considered to be the most
-desirable and beautiful girls. Stay strong, Josephus, act
+Josefus’ Voice: Oh, great, Egyptians! Widely considered to be the most
+desirable and beautiful girls. Stay strong, Josefus, act
 nonchalantly - just ignore them.
 
 [He passes by them only to hear one say
@@ -108,40 +108,40 @@ nonchalantly - just ignore them.
 <a href="http://biblehub.com/ecclesiastes/7-1.htm">Ecclesiastes 7:1</a>
 ) in perfect Aramaic.]
 
-Josephus: Oh! God help Me! [Out loud while trying to obscure his view.]
+Josefus: Oh! God help Me! [Out loud while trying to obscure his view.]
 
-Egyptian Girl #1: Hey, Josephus?
+Egyptian Girl #1: Hey, Josefus?
 
-Josephus: Yes?
+Josefus: Yes?
 
 Egyptian Girl #1: I'm sorry, we were just teasing you. You must get that a lot.
 
-Josephus: Yes, I do.
+Josefus: Yes, I do.
 
 Egyptian Girl #1: I can feel for you. Anyway, we loved your "Qoheleth" thing
 and we memorised it all. It's awesome.
 
-Josephus: Yes, most people say that.
+Josefus: Yes, most people say that.
 
 Egyptian Girl #1: Listen my name is $NAME, I live in $LOCATION, and I'm still
 unmarried. So, if you’re interested…
 
-Josephus: Thanks for the offer, I’ll consider it.
+Josefus: Thanks for the offer, I’ll consider it.
 
 Egyptian Girl #1: Thanks! My oldest brother is also infatuated with your
 scroll, and I’m sure he’ll agree to the marriage.
 
-Josephus: You know you’ll have to convert to Judaism?
+Josefus: You know you’ll have to convert to Judaism?
 
 Egyptian Girl #1: Yes, I’m cool with that.
 
-Josephus: Thanks, I’ll consider it.
+Josefus: Thanks, I’ll consider it.
 
 </s>
 
 <s id="meeting_the_celtic_trio" title="Meeting the Celtic trio">
 
-[Josephus leaves the scene encouraged, and later on is approached by a girl who
+[Josefus leaves the scene encouraged, and later on is approached by a girl who
 wears a hood, who requests that he follows her and tells him that she can pay
 him generously for his time. He can see through the hood that her face is pale
 and that she has sunburns. She takes him to a restaurant which is shaded,
@@ -151,7 +151,7 @@ red/orange coloured-hair. They are
 
 The other girl (Athena) pulls down her hood, and she is blonde as well.]
 
-Athena: Hello Josephus, thanks for coming to meet us. We are three Celtic
+Athena: Hello Josefus, thanks for coming to meet us. We are three Celtic
 girls from the village near the salt mine in the alps. We wanted to travel
 all the way to Alexandria, but given our sunburns, I guess that’s not going
 to happen.
@@ -160,7 +160,7 @@ to happen.
 some wine or grape juice? Kosher of course, not that we’ll ever willingly
 drink the non-kosher excuses for them again.
 
-Josephus: Nice to meet you all. I wish there was something I could do to
+Josefus: Nice to meet you all. I wish there was something I could do to
 prevent or fight these sun-burns of yours, but unfortunately, our
 practice of medicine is not so advanced yet. In general, we believe you should
 stay in the shade, and get plenty of fluids.
@@ -171,7 +171,7 @@ and I also notice that Selena is a redhead. Is it common there?
 Athena: Oh, yes, quite common. From what we noticed, here it tends
 to be extremely rare.
 
-Josephus: Yes, King David was reportedly a
+Josefus: Yes, King David was reportedly a
 <a href="http://biblehub.com/1_samuel/16-12.htm">“Reddish and with
 beautiful eyes”</a> , which indicates that back when
 that scripture was written, it was notable, but not unthinkable.
@@ -181,7 +181,7 @@ that scripture was written, it was notable, but not unthinkable.
 
 Athena: And what happened to them?
 
-Josephus: Oh, what happened to the girl cousin is a really interesting story.
+Josefus: Oh, what happened to the girl cousin is a really interesting story.
 See: there's this other girl - Greek, black hair, brown eyes, bronze skin -
 actually she's the younger sister of the guy who challenged me to write the
 scroll - and a very rebellious character. She’s been making a lot of
@@ -190,7 +190,7 @@ killed or injured several times.
 
 Selena: “Nearly”… “nearly” is the key word.
 
-Josephus: Yes, possibly. Anyway, although certainly pretty, I’ve known far more
+Josefus: Yes, possibly. Anyway, although certainly pretty, I’ve known far more
 beautiful girls here, but, but… men go mad over her! She’s been courted by
 princes and by some of the richest merchants, and… philosophers wrote many love
 songs praising and idealising her beauty. And that bitch doesn’t accept any of
@@ -206,7 +206,7 @@ loved the song, but that she still is not going to marry him.
 
 Alexis: The Bitch!
 
-Josephus: My thoughts exactly. Anyway, he felt very down for a long while,
+Josefus: My thoughts exactly. Anyway, he felt very down for a long while,
 so I decided to introduce him to my redhead cousin - her name’s Elishevah
 - hoping it’ll cheer him up. He ended up liking her and he wrote a hack
 of that song as a love song to her, and she ended up falling in love with
@@ -215,7 +215,7 @@ with their first born, and he writes more songs about her. Very good ones.
 
 Athena: And Phoebe is still single?
 
-Josephus: Yes! And people are still crazy over her.
+Josefus: Yes! And people are still crazy over her.
 
 </s>
 
@@ -223,7 +223,7 @@ Josephus: Yes! And people are still crazy over her.
 
 <s id="celts_trip__rape" title="The Rape">
 
-Josephus: Anyway, can you share some details about your trip? I never ventured
+Josefus: Anyway, can you share some details about your trip? I never ventured
 a long way past Damascus.
 
 Athena: Sure! It was very interesting. Most interesting.
@@ -235,20 +235,20 @@ hoping it will get us closer to Alexandria. There were some guards escorting
 us, and at one point they disarmed us and threatened us at sword’s point to
 have sex with them or else they'll kill us and take all our possessions.
 
-Josephus: Wow! Rape. So what did you do?
+Josefus: Wow! Rape. So what did you do?
 
 Athena: Well, we consulted between ourselves and after a long while of being
 really scared, we calmed down a little, and decided that if we are forced to
 have sex, we might as well cooperate and try to enjoy it. So we told them
 that we’ll do it willingly, and they agreed.
 
-Josephus: How clever of you! And then what happened?
+Josefus: How clever of you! And then what happened?
 
 Athena: Well, the three of us and her lover each found their own part of the
 woods, and we had sex. Then, after one or two times, the three men all
 lost stamina, while we were not completely satisfied and cried for more!
 
-[Josephus laughs.]
+[Josefus laughs.]
 
 Alexis: Yes! Then we heard each other’s cries and we gathered at one place
 together still naked with our clothes as cover, and we bitched about the whole
@@ -262,7 +262,7 @@ all the 6 of us were completely emotional and offered each other to escort them
 on the way, so we won’t part. But we eventually cared enough about the
 others to let them go on their own way.
 
-Josephus: Wow! That sounds like love.
+Josefus: Wow! That sounds like love.
 
 Athena: Love! Yes! That’s the word.
 <a href="https://en.wikipedia.org/wiki/Eros">Eros</a> in action.
@@ -275,7 +275,7 @@ Athena: Anyway, then we hitchhiked a ride with a band of Greek merchants. The
 boys there were easy and we all liked each other, so we had a lot of sex, and
 we learned even more Aramaic from them.
 
-Josephus: Did you fall in love with them too?
+Josefus: Did you fall in love with them too?
 
 Athena: This time we didn’t. So after them, we hitchhiked a ride with some
 Jewish and Phoenician merchants. Jews and Phoenicians proclaim to hate each
@@ -284,7 +284,7 @@ with the Jewish men but they refused to do so unless we converted to Judaism
 and they married us. They kept citing Jehovah and their faith to him
 as the reason why.
 
-Josephus: So did you give up on them?
+Josefus: So did you give up on them?
 
 Athena: Not on your life! We wanted them more! And more badly!
 
@@ -302,7 +302,7 @@ about what the
 <a href="http://en.wikipedia.org/wiki/Halakha">Jewish tradition</a>
 said about that.
 
-Josephus: So these women studied that?
+Josefus: So these women studied that?
 
 Athena: Probably not, but they faked it really well. But the men still
 didn’t want to have sex with us, because of Jehovah of course.
@@ -311,7 +311,7 @@ didn’t want to have sex with us, because of Jehovah of course.
 
 <s id="celts_trip__not_having_sex" title="Not Having Sex">
 
-Josephus: Well, just for the record, as much as my variant of Judaism is
+Josefus: Well, just for the record, as much as my variant of Judaism is
 unorthodox and avant-garde, and I derive influence from other ethnicities and
 cultures, I am still a proud Jew and not going to cast humiliation on
 my people by having pre-marital sex with you or with any other girl.
@@ -321,18 +321,18 @@ Selena: See! Told you! All Jews are the same. Jehovah, Jehovah, Jehovah.
 +++: Well, just for the record, we’re not going to have sex with you
 either.
 
-Josephus: Oh.
+Josefus: Oh.
 
-Josephus’ Voice: I actually felt disappointed.
+Josefus’ Voice: I actually felt disappointed.
 
 Athena: Do you feel disappointed from it?
 
-Josephus: Me? No! It’s actually a relief. Well… a little.
+Josefus: Me? No! It’s actually a relief. Well… a little.
 
 Athena: OK, just know that it’s nothing personal: we decided against having
 sex completely, shortly after hearing your Qoheleth thing.
 
-Josephus: Really? But didn’t I say
+Josefus: Really? But didn’t I say
 <a href="http://www.sacred-texts.com/bib/poly/ecc011.htm">“Young man,
 be joyful in your youth”</a> there?
 
@@ -340,7 +340,7 @@ Athena: That you did, but something else there made us realise that sex
 is not worth the risk of getting pregnant. So we’re going to wait with it
 until we return home to our village.
 
-Josephus: I see, I said so many things in the scroll that I couldn’t tell
+Josefus: I see, I said so many things in the scroll that I couldn’t tell
 what was right and what was wrong. Good thing I admitted it was blasphemy
 and should not be taken seriously.
 
@@ -350,7 +350,7 @@ convert to Judaism and marry the Jewish men. A lot of it seems nifty and a
 lot seems quite appalling. Are all the mythologies of the peoples here
 like that?
 
-Josephus: There are many parallels, and most myths of the Jews exist in
+Josefus: There are many parallels, and most myths of the Jews exist in
 various variations in the myths of other nations. Ever since the exile
 to Babylon, the Jews have treated their Torah as holy, which I sometimes
 feel was not the original intention of these stories.
@@ -367,7 +367,7 @@ generation.
 
 <s id="girls-doing-warfare" title="Girls Doing Warfare">
 
-Josephus: Is it true what they say about the Iranian tribes having female
+Josefus: Is it true what they say about the Iranian tribes having female
 warriors, that were the inspiration for the Amazons of the Greek?
 
 Athena: Oh them… well not really. See, they don’t really fight themselves,
@@ -377,7 +377,7 @@ flail while using. As women go, they are too weak to use it effectively.
 +++: We on the other hand, have found a more effective way to protect us
 against their raids against our village.
 
-Josephus: Really? Which one?
+Josefus: Really? Which one?
 
 Athena: Knives! [She shows a knife.] These are much better knives than
 what we have in the village, but ours are good for it too. Selena can
@@ -386,33 +386,33 @@ demonstrate - she’s an expert in throwing them.
 [Alexis inscribes an X on the wall using some chalk. Selena stands with a
 knife in the opposite direction to the wall.]
 
-Josephus: Hold it, she’s not in the right direction
+Josefus: Hold it, she’s not in the right direction
 
 [Selena quickly turns, throws the knife and hits the X.]
 
-Josephus: Wow!
+Josefus: Wow!
 
 Athena: After we threw a few knives like that at their chieftains eyes,
 they left us alone.
 
-Josephus’ Voice: OK, there was definite arousal. I thought I should go.
+Josefus’ Voice: OK, there was definite arousal. I thought I should go.
 
-Josephus: OK, I really should go - it was nice talking you, but I’m beginning
+Josefus: OK, I really should go - it was nice talking you, but I’m beginning
 to sin here.
 
 Athena: Sin?
 
-Josephus: Yes! Our Torah forbade us from incest.
+Josefus: Yes! Our Torah forbade us from incest.
 
 Athena: Well, these are just feelings. They don’t hurt anyone. Please
 stay - we’ll pay you for the time.
 
-Josephus: OK, I guess.
+Josefus: OK, I guess.
 
 Athena: Anyway, these knives are not as effective as bows, which we are
 still too weak to use. Or swords that are used for melee.
 
-Josephus: But they’ve been getting lighter…
+Josefus: But they’ve been getting lighter…
 
 Athena: Exactly! Maybe one day a bow will be light enough for a girl
 to operate using both hands.
@@ -423,7 +423,7 @@ to operate using both hands.
 
 ]
 
-Josephus: [Laughs] Hah hah! Tell you what? Maybe one day a girl will be
+Josefus: [Laughs] Hah hah! Tell you what? Maybe one day a girl will be
 able to hold one long-ranged bow-like weapon in each hand.
 
 [
@@ -434,7 +434,7 @@ able to hold one long-ranged bow-like weapon in each hand.
 
 Athena: [Laughs] You crack me up.
 
-Josephus: Heh, maybe.
+Josefus: Heh, maybe.
 
 </s>
 
@@ -454,23 +454,23 @@ I'm keeping it here only as a plot element.
 [Athena takes some wooden cards from her possessions, shuffles them, and puts
 them on the table.]
 
-Athena: Hey Josephus, let me read you your fortune.
+Athena: Hey Josefus, let me read you your fortune.
 
-Josephus: Sorry, Athena, but such witchcraft is explicitly forbidden by the
+Josefus: Sorry, Athena, but such witchcraft is explicitly forbidden by the
 <a href="http://en.wikipedia.org/wiki/Torah">Torah</a> .
 
 Athena: Well, it’s more rational than traditional witchcraft. See, I give
 my own associations based on the cards, and instead of telling what I think
 they mean, I ask you what they mean.
 
-Josephus: Sounds relatively innocent. Well, I have sinned enough since I
+Josefus: Sounds relatively innocent. Well, I have sinned enough since I
 wrote the scroll, and if God has mercy on my soul, maybe I’ll still live
 long enough.
 
 Athena: Yes. OK, let’s start. [ Puts a card. ] I’ll call this card “The
 Alpha” - what does it mean to you?
 
-Josephus: the Alpha… I’m reminded of some philosophers who studied biology
+Josefus: the Alpha… I’m reminded of some philosophers who studied biology
 who discussed the herds of some animals, where there was an alpha male
 who mates with all the females. But…
 
@@ -478,7 +478,7 @@ Athena: Who is he among humans?
 
 Alexis: Or she… [ she continues to throw the knife. ]
 
-Josephus: An alpha female? Yes! The most coveted female… Phoebe … a rule
+Josefus: An alpha female? Yes! The most coveted female… Phoebe … a rule
 breaker… keeps challenging social norms… the “bad girl”… gets into a lot
 of trouble, but usually not remotely in danger - she can get out of it.
 
@@ -486,19 +486,19 @@ of trouble, but usually not remotely in danger - she can get out of it.
 
 Image - anthology of alpha females:
 <a href="https://en.wikipedia.org/wiki/Alicia_Silverstone">Alicia Silverstone</a>,
-SMG, Natalie Portman, Jennifer Lopez, Beyoncé, Paris Hilton, Miley Cyrus, and Jennifer Lawrence.
+Sarah Geler, Natalie Portman, Jenifer Lopez, Beyoncé, Paris Hiltonn, Miley Cyrus, and Jenifer Lawrens.
 
 ]
 
-Josephus: Yes, in stories or plays she is usually the antagonist.
+Josefus: Yes, in stories or plays she, is usually the antagonist.
 
 Selena: Or he.
 
-Josephus: Indeed. Or he.
+Josefus: Indeed. Or he.
 
 Athena: OK, next. This card is “The beta”.
 
-Josephus: The beta female? Hmmm… Let me think…
+Josefus: The beta female? Hmmm… Let me think…
 
 +++: Yes! The “protagonist”, the good girl, solid, “responsible adult”.
 She’s more respected than the Alpha female, and some men find her more
@@ -519,7 +519,7 @@ Phoebe wants me.
 Athena: OK, fair enough. Now next. Hmm… it’s a card of complete consumption,
 so seems like it will be “The Gamma all the way to the Omega”. Who is she?
 
-Josephus: Gamma-to-Omega? Hmmm… yes! The Gamma↔Omega female— the one
+Josefus: Gamma-to-Omega? Hmmm… yes! The Gamma↔Omega female— the one
 who is sheepish, always gets herself and everyone else into trouble,
 pitiful. The true villainess.
 
@@ -543,7 +543,7 @@ Athena: OK, next card. Hmmm… that’s funny - it’s a card that’s indicativ
 of something above and beyond the previous cards. But not divine…
 I wonder what it could be…
 
-Josephus: Above and beyond but not divine… above and beyond… oh my… there are
+Josefus: Above and beyond but not divine… above and beyond… oh my… there are
 many Alpha/Beta/Gamma↔Omega males and females - each in their own society and
 sub-society. But there is one person, or maybe a selected few above them… the
 Master Philosopher! The Hacker King!
@@ -555,20 +555,20 @@ philosophers. But who is he now? Who the hell is he?
 
 Selena: Is it you?
 
-Josephus: Me? The scroll, it is nothing… I was just faking it… I cannot be
+Josefus: Me? The scroll, it is nothing… I was just faking it… I cannot be
 the hacker king.
 
 Athena: You could not be… the scroll was written in past tense. And I think
 you were… were the hacker king!
 
-Josephus: So you're saying that in the scroll I distilled my wisdom, and it
+Josefus: So you're saying that in the scroll I distilled my wisdom, and it
 became my <a href="http://en.wikipedia.org/wiki/Magnum_opus">Magnus opus</a>
 as the hacker king and I officially stepped down? But who is
 the new Qoheleth now? I must find out.
 
 Selena: …Fuck that!!
 
-Josephus: I beg your pardon?
+Josefus: I beg your pardon?
 
 Selena: Do you really think you've lost it?
 
@@ -581,13 +581,13 @@ could lose it!" image macro from Friends' Ross Music episode</a>.
 
 ]
 
-Josephus: You mean… I'm still a hacker king? A messiah?
+Josefus: You mean… I'm still a hacker king? A messiah?
 
 +++: Wow!
 
 Selena: And tell you what: Athena, Alexis, and I are in it too.
 
-Josephus: Welcome to the club.
+Josefus: Welcome to the club.
 
 Athena: heh, we <a href="https://pancocojams.blogspot.com/2018/09/some-examples-of-line-we-dont-die-we.html">multiply</a>.
 
@@ -595,14 +595,14 @@ Athena: heh, we <a href="https://pancocojams.blogspot.com/2018/09/some-examples-
 
 <s id="what-to-do-about-being-the-Damascus-alpha-male" title="What to do about being Damascus’ Alpha Male?">
 
-Josephus: In any case, following
+Josefus: In any case, following
 the publication of the scroll it seems I have become the most coveted male
 in Damascus — the Alpha Male so-to-speak. And all the single girls want me.
 And I don’t know what to do? Perhaps I should talk to the king about that.
 
 Athena: And what can he do?
 
-Josephus: I don't know… order all the girls to stop lusting me.
+Josefus: I don't know… order all the girls to stop lusting me.
 
 Athena: Well let me tell you something— if I learned anything from
 the Greek mythology it is that <a href="http://en.wikipedia.org/wiki/Aphrodite">Aphrodite</a>
@@ -610,25 +610,25 @@ always gets her way, regardless of how much the authorities try to withhold
 her. A decree from the king will likely only make all the girls crave you
 even more.
 
-Josephus: Yes, I guess you are right. But what can I do?
+Josefus: Yes, I guess you are right. But what can I do?
 
 Athena: Well, one thing is to take it the right way. The
 <a href="http://en.wikipedia.org/wiki/Stoicism">Stoic</a> way. They want you —
 just live with it and even try to enjoy it.
 
-Josephus: Interesting. I didn’t think of it.
+Josefus: Interesting. I didn’t think of it.
 
 Athena: And the second thing you have to do is to marry one or more girls
 you like.
 
-Josephus: More than one? You know how they say that bigamy is
+Josefus: More than one? You know how they say that bigamy is
 <a href="https://quoteinvestigator.com/2014/07/16/bigamy/">having one wife too many</a>.
 
 Athena: Well, monogamy is the same thing.
 
-[Josephus laughs.]
+[Josefus laughs.]
 
-Josephus: I guess I should marry someone. Maybe Phoebe if she’s willing
+Josefus: I guess I should marry someone. Maybe Phoebe if she’s willing
 to convert to Judaism. She should be enough of a competition for the other
 girls to ward them off.
 
@@ -638,29 +638,29 @@ girls to ward them off.
 
 <s id="josephus-and-the-trio-leaving-the-restaurant" title="Leaving">
 
-Josephus’ Voice: The day started to fade.
+Josefus’ Voice: The day started to fade.
 
-Josephus: OK, I think I spent enough time with you here. I learned a lot from
+Josefus: OK, I think I spent enough time with you here. I learned a lot from
 you so I won’t require payment. Perhaps I <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=quora-learning-to-drum-at-65">should be the one who ought to pay</a>. I need to go because people still need me as a physician and a
 consultant, and they likely won’t be able to find me here.
 
 Athena: Well, maybe we can accompany you. We can put our caps on and the
 sun is no longer as strong as it was.
 
-Josephus: Yes.
+Josefus: Yes.
 
 [They go.]
 
 </s>
 
-<s id="being_a_physician" title="Josephus Being a Physician">
+<s id="being_a_physician" title="Josefus Being a Physician">
 
-[Josephus and the three Celtic girls are walking down the street.]
+[Josefus and the three Celtic girls are walking down the street.]
 
-Alexis: So, Josephus, can you tell us about some of your exploits as a
+Alexis: So, Josefus, can you tell us about some of your exploits as a
 physician?
 
-Josephus: Sure! The other day I treated a young girl who suffered from a flu,
+Josefus: Sure! The other day I treated a young girl who suffered from a flu,
 and she got better and became healthy again. And shortly after that, she
 accidentally broke a pot, and her mother was mad at her. So some guys
 I know told me that the pot got broken because I saved her, and that it was
@@ -672,19 +672,19 @@ Alexis: I see.
 
 [They pass through a crowd of young females.]
 
-Girl: [Teasingly] Hello, Josephus.
+Girl: [Teasingly] Hello, Josefus.
 
-Josephus: [Also teasingly] Hello, ladies!
+Josefus: [Also teasingly] Hello, ladies!
 
-[ The girls burst out laughing. Josephus and the Celts join them and they
+[ The girls burst out laughing. Josefus and the Celts join them and they
 pass through. ]
 
-Josephus: Heh, you were right; it does not feel as badly as before, if you
+Josefus: Heh, you were right; it does not feel as badly as before, if you
 change your attitude.
 
 Athena: Yeah.
 
-Josephus: Anyway, another thing we treat is ailments of the spirit. There
+Josefus: Anyway, another thing we treat is ailments of the spirit. There
 was this hard to tackle case the other day with a rich Jewish merchant,
 who got
 <a href="http://en.wikipedia.org/wiki/Major_depressive_disorder">depressed</a>
@@ -693,34 +693,34 @@ who got
 
 Outside the merchant's house, there's a fellow Greek philosopher, Hector.]
 
-Hector: Hi Josephus! It's good that you are here - they won't let me in
+Hector: Hi Josefus! It's good that you are here - they won't let me in
 because I’m not Jewish. Anyway, they tried playing to him and he dislikes
 it.
 
-Josephus: I see. Do you propose extracting blood like the Greek do?
+Josefus: I see. Do you propose extracting blood like the Greek do?
 
 Hector: I never really believed in it. I suggest you just talk to him and
 see what is on his mind - maybe the answer lies there.
 
-Josephus: [Thinks for a moment.] Sounds like it may work. [He enters]
+Josefus: [Thinks for a moment.] Sounds like it may work. [He enters]
 
 [ At the house. ]
 
-Josephus: Hello, Mosheh, I came to help - how are you feeling?
+Josefus: Hello, Mosheh, I came to help - how are you feeling?
 
-Mosheh: [Sheepishly.] Hello, Josephus.
+Mosheh: [Sheepishly.] Hello, Josefus.
 
-Josephus: OK, can you tell me what is bothering you? What are you thinking
+Josefus: OK, can you tell me what is bothering you? What are you thinking
 about at the moment?
 
 Mosheh: I realised I’m a sinner!
 
-Josephus: How so?
+Josefus: How so?
 
 Mosheh: I violated the tenth commandment - “You shall not covet”. I keep
 coveting the wives of other men.
 
-Josephus’ Voice: So I ended up telling him about how most Jewish scholars
+Josefus’ Voice: So I ended up telling him about how most Jewish scholars
 thought it was there as a general guideline so you avoid it getting out
 of control, and as a way to show you that you’ll always be a sinner, and
 so nothing to worry about.
@@ -729,7 +729,7 @@ so nothing to worry about.
 
 Mosheh: OK, that’s fine, but I still feel miserable.
 
-Josephus: Tell you what? It’s OK that you’re feeling bad for now, don’t worry
+Josefus: Tell you what? It’s OK that you’re feeling bad for now, don’t worry
 about it. Just let the feeling sulk.
 
 [
@@ -740,23 +740,23 @@ about it. Just let the feeling sulk.
 
 [ Mosheh is thinking for a moment. ]
 
-Mosheh: Wow! Tell you what, Josephus? I feel happy now.
+Mosheh: Wow! Tell you what, Josefus? I feel happy now.
 
-Josephus: Really?
+Josefus: Really?
 
 Mosheh: Yes! Tell you what, I hereby invite you to a dinner where I’ll roast
 my finest sheep for you. And wait a second [he goes to the other room.]
 
-[Mosheh returns and drops some coins into Josephus’ palm.]
+[Mosheh returns and drops some coins into Josefus’ palm.]
 
-Josephus: Wow! Gold! [Showing the coins.]
+Josefus: Wow! Gold! [Showing the coins.]
 
 +++: OK, my Greek friend, Hector the philosopher, provided some guidance
 for curing you. Can he also be invited?
 
 Mosheh: He will be served outside, being a gentile and all.
 
-Josephus: Thank you, I will let him know.
+Josefus: Thank you, I will let him know.
 
 [There are cheers from the crowd. Then an old woman from the crowd starts
 shouting.]
@@ -773,19 +773,19 @@ Alexis: Wow! So you cured him.
 
 <s id="coast-is-clear" title="Coast is Clear">
 
-[ Hector approaches Josephus. ]
+[ Hector approaches Josefus. ]
 
-Hector: Hey Josephus!
+Hector: Hey Josefus!
 
-Josephus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow messiahs!
+Josefus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow messiahs!
 
 [ Hector bows. ]
 
-Josephus: Anyway, is there anyone too sick in Damascus today?
+Josefus: Anyway, is there anyone too sick in Damascus today?
 
 Hector: Doesn't seem so. Coast is clear.
 
-Josephus: Great… I presume the five of us can go to a forum then - I cannot wait
+Josefus: Great… I presume the five of us can go to a forum then - I cannot wait
 to share the amusing stuff the four of us learned today.
 
 </s>
@@ -796,12 +796,12 @@ to share the amusing stuff the four of us learned today.
 
 [ They enter the forum. Phoebe and her brothers are there. ]
 
-Phoebe: oh… there you are, Josephus! Stephan, please give him the freaking bet money
+Phoebe: oh… there you are, Josefus! Stephan, please give him the freaking bet money
 already, so that <a href="https://en.wiktionary.org/w/index.php?title=Reconstruction:Proto-Semitic/%C5%A1al%C4%81m-&amp;oldid=62444966">shalom (= well being and prosperity)</a> shall prevail upon the Earth.
 
-[ Stephan gives Josephus the bet money. ]
+[ Stephan gives Josefus the bet money. ]
 
-Josephus: Thanks, Stephan!
+Josefus: Thanks, Stephan!
 
 Stephan: You are welcome. <a href="https://www.answers.com/Q/What_does_et_in_terra_pax_hominibus_bonae_voluntatis_mean">And good will among men!</a>.
 
@@ -809,7 +809,7 @@ Stephan: You are welcome. <a href="https://www.answers.com/Q/What_does_et_in_ter
 
 Phoebe: Are you going to introduce me to your friends?
 
-Josephus: Oh, they are Celtic travellers, their Greek names are Athena, Selena,
+Josefus: Oh, they are Celtic travellers, their Greek names are Athena, Selena,
 and Alexis. A talk with them inspired some further philosophical insights.
 
 +++: They joined me in our quest to become master philosophers, also-known-as
@@ -817,11 +817,11 @@ and Alexis. A talk with them inspired some further philosophical insights.
 
 Phoebe: awesome!
 
-Josephus: And while we are here: Phoebe, will you convert to Judaism and marry me?
+Josefus: And while we are here: Phoebe, will you convert to Judaism and marry me?
 
 Phoebe: [thinks for a moment] yeah, yeah, alright! [Unenthusiastically.]
 
-Josephus: Done then! Though you do not seem too keen on the idea.
+Josefus: Done then! Though you do not seem too keen on the idea.
 
 +++: Why aren't you?
 
@@ -835,11 +835,11 @@ Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cX
 
 Phoebe: Man is an underrated entertainer (= philosopher); man writes a work of philosophy, which although repetitive, is short and contains many gems; I'll give it a 9 out of 10.
 
-Josephus: ha!
+Josefus: ha!
 
 Phoebe: yes… anyway: man becomes the most coveted male…
 
-Josephus: the Alpha Male!
+Josefus: the Alpha Male!
 
 Phoebe: “Alpha Male”… <a href="https://en.wikiquote.org/wiki/Histeria!">I like it!</a>
 
@@ -849,20 +849,20 @@ able to have sex with her, and so that she'll ward off competition.
 
 +++: We all heard this story many times. There is nothing new under the sun. [ <a href="https://biblehub.com/ecclesiastes/1-9.htm">Reference: Ecclesiastes 1:9</a>. ]
 
-Josephus: Ha! An alpha female makes a truly alpha philosopher! (Or even an alpha
+Josefus: Ha! An alpha female makes a truly alpha philosopher! (Or even an alpha
 messiah?!) I am fortunate enough to be her fiancé.
 
-+++: OK: [to the forum] Everyone, I, Josephus, am about to marry Phoebe, whom you know as the most coveted female in Damascus, after she converts to Judaism.
++++: OK: [to the forum] Everyone, I, Josefus, am about to marry Phoebe, whom you know as the most coveted female in Damascus, after she converts to Judaism.
 
 [Applause from the audience.]
 
-David: Hey, the "Qoheleth" Josephus is about to marry <a href="https://en.wikipedia.org/wiki/Goy">a goyah</a>!
+David: Hey, the "Qoheleth" Josefus is about to marry <a href="https://en.wikipedia.org/wiki/Goy">a goyah</a>!
 
-Josephus: Take back what you just said!
+Josefus: Take back what you just said!
 
 David: Hey, please don't hit me, man!
 
-Josephus: I'm not going to hit you, I just detest calling a non-Jew "a goy",
+Josefus: I'm not going to hit you, I just detest calling a non-Jew "a goy",
 which meant "a people" or "a nation" in the Torah.  The Jews are just one of
 many peoples. No wonder people think we have some kind of
 <a href="https://en.wikipedia.org/wiki/The_Protocols_of_the_Elders_of_Zion">a
@@ -870,25 +870,25 @@ sinister world-domination conspiracy</a>.
 
 David: Fine, you'll marry a "gerra" ( "גרה" ).
 
-Josephus: fine.
+Josefus: fine.
 
 [He thinks for a moment.]
 
-Josephus: Maybe we should have a conspiracy … of goys… pluralistic. Let's call it <a href="https://buffyfanfiction.fandom.com/wiki/The_Neo-Tech_conspiracy_for_establishing_the_Semitic_culture">The Neo-Tech conspiracy for establishing the Semitic culture</a>.
+Josefus: Maybe we should have a conspiracy … of goys… pluralistic. Let's call it <a href="https://buffyfanfiction.fandom.com/wiki/The_Neo-Tech_conspiracy_for_establishing_the_Semitic_culture">The Neo-Tech conspiracy for establishing the Semitic culture</a>.
 
 Voice of a Damascus' royal guard from behind: you're a little
-late to The Game, Mr. Josephus Flavius!
+late to The Game, Mr. Josefus Flavius!
 
 [
 
-Josephus turns around and sees two royal guards holding bows. One
-of them aims his bow at Josephus .
+Josefus turns around and sees two royal guards holding bows. One
+of them aims his bow at Josefus .
 
 ]
 
 Guard: I can shoot you now, but I won't!
 
-Josephus: I believe you. What is it that you want from me?
+Josefus: I believe you. What is it that you want from me?
 
 </s>
 
@@ -914,17 +914,17 @@ approach.
 
 ]
 
-Josephus: whoa, you guys are real?
+Josefus: whoa, you guys are real?
 
 Q: only the best for the baddest.
 
-George the Cat: good evening, Josephus.
+George the Cat: good evening, Josefus.
 
-Josephus: so cats <b>can</b> talk?
+Josefus: so cats <b>can</b> talk?
 
 George the Cat: meow!
 
-Josephus: why is Athena greyed out?
+Josefus: why is Athena greyed out?
 
 Selena: she is the only non-wizard here.
 
@@ -940,11 +940,11 @@ except for its mystical capital, Damascus, where newborns were born vampires.
 
 +++: We have guided Athena here in order to get her to either slay or be
 slain by Damascus' master vampire. Most of us expected the latter to be
-Phoebe, but she admitted inferiority to Josephus and his team here after
+Phoebe, but she admitted inferiority to Josefus and his team here after
 he wrote the scroll of Qoheleth. He in turn was slain by Athena, thus
 liberating Damascus and unifying Syria.
 
-Q: You are now a wizard (also-known-as "a true prophet"), Josephus. Here are your magic
+Q: You are now a wizard (also-known-as "a true prophet"), Josefus. Here are your magic
 wand, your <a href="https://www.shlomifish.org/meta/FAQ/d10_dice.xhtml">game dice
 set</a>, and a book that provides access to learning resources. Do not
 worry about losing them - they are going to follow you.
@@ -958,12 +958,12 @@ guidelines.
 
 <s id="the-scroll-vs-the-rules-of-acquisition" title="The scroll vs. The Rules of Acquisition">
 
-Quark: You know, Josephus, <q>cast your bread upon the water</q>
+Quark: You know, Josefus, <q>cast your bread upon the water</q>
 [ <a href="https://biblehub.com/ecclesiastes/11-1.htm">Reference: Ecclesiastes 11:1</a> ]
 seems to contradict <a href="https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition">the Rule of
 Acquisition No. 1</a>: <q>Once you have their money, never give it back.</q>
 
-Josephus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">To everything there
+Josefus: heh… <a href="https://en.wikipedia.org/wiki/Turn!_Turn!_Turn!#Lyrics">To everything there
 is a time</a>, including to paraphrase on what oneself had written and published
 earlier.
 
@@ -979,7 +979,7 @@ vampire son, who will be raised by your echoes, and who will combine the
 <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/learning_more_from_inet_forums.xhtml">philosophies</a>
 of the two of you. You now have the opportunity to tell them what to do.
 
-Josephus: [after thinking for a moment] Call the newborn Aharon Ashkenazius…
+Josefus: [after thinking for a moment] Call the newborn Aharon Ashkenazius…
 Aharon ha'Ashkenazi. Return to Athena's village and project a European,
 Greek-Celtic, take on Judaism.
 
@@ -991,7 +991,7 @@ The Princess cancels the time wrap.
 
 ]
 
-Josephus: meanwhile, I think Phoebe and I will travel to Alexandria
+Josefus: meanwhile, I think Phoebe and I will travel to Alexandria
 and help <a href="https://en.wikipedia.org/wiki/Septuagint">the Bible translation
 effort</a> [= the Septuagint].
 
@@ -999,9 +999,9 @@ effort</a> [= the Septuagint].
 
 <s id="phoebe-marks-her-territory" title="Phoebe marks her territory">
 
-[ Phoebe rushes towards Josephus, and kisses him passionately. The crowd cheers. ]
+[ Phoebe rushes towards Josefus, and kisses him passionately. The crowd cheers. ]
 
-Josephus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts told me about the rape</a>. And it's not as if I wanted to resist. <a href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml">One does not simply say “no” to an Alpha Female.</a>
+Josefus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts told me about the rape</a>. And it's not as if I wanted to resist. <a href="https://www.shlomifish.org/humour/image-macros/indiv-nodes/say_no_to_an_alpha_female.xhtml">One does not simply say “no” to an Alpha Female.</a>
 
 [
 
@@ -1013,13 +1013,13 @@ Josephus’ Voice: I remembered <a href="#celts_trip__rape">what the three Celts
 
 Phoebe: I love men of action! And - having raped you now - I can now be forced to marry you.
 
-Josephus: well… unfortunately for you, Jewish scholars have restricted rape to more… <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">up base</a>… sexual acts.
+Josefus: well… unfortunately for you, Jewish scholars have restricted rape to more… <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">up base</a>… sexual acts.
 
 Phoebe: Well, there's more where it came from…
 
-Josephus: and I'd suggest against violating Damascus' public order.
+Josefus: and I'd suggest against violating Damascus' public order.
 
-[ Phoebe smiles, and snuggles into Josephus. ]
+[ Phoebe smiles, and snuggles into Josefus. ]
 
 Athena: oww! You two make such a lovely couple.
 
@@ -1027,7 +1027,7 @@ Athena: oww! You two make such a lovely couple.
 
 [ As the Celtic trio leaves, Selena and Alexis each blow one kiss in the air.
 
-Josephus waves.
+Josefus waves.
 
 ]
 
@@ -1053,7 +1053,7 @@ who in turn was the
 direct-male-ancestor of my father's father, Aharon Fish.
 He also was one of the founders of <a href="https://en.wikipedia.org/wiki/Ashkenazi_Jews">Ashkenazi Judaism</a>.
 
-Josephus Flavius is/was the direct-male-descendent of
+Josefus Flavius is/was the direct-male-descendent of
 <a href="https://en.wikipedia.org/wiki/Joshua">Yehoshua bin-Nun ("Joshua")</a>,
 who was the spiritual son of <a href="https://en.wikipedia.org/wiki/Joseph_(Genesis)">Joseph</a>.
 
