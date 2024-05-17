@@ -748,6 +748,8 @@ about it. Just let the feeling sulk.
 
 <img src="images/If-You-Wanna-Be-Sad.svg.jpg" alt="Simpsons - “If you wanna be sad, be sad!”" title="“If you wanna be sad, be sad!”" />
 
+Simpsons - “If you wanna be sad, be sad!” from <a href="https://en.wikipedia.org/wiki/Moaning_Lisa_(The_Simpsons)">the “Moaning Lisa” Simpsons’ episode</a>.
+
 ]
 
 [ Mosheh is thinking for a moment. ]
@@ -789,7 +791,7 @@ Alexis: Wow! So you cured him.
 
 Hector: Hey Josephus!
 
-Josephus: Hey Hector… Meet Athena, Selena, and Alexis, my fellow messiahs!
+Josephus: Hey Hector! Meet Athena, Selena, and Alexis, my fellow messiahs!
 
 [ Hector bows. ]
 
@@ -841,7 +843,9 @@ Phoebe: well... I just don't buy it. <a href="https://www.youtube.com/watch?v=cX
 
 [
 
-<img src="images/captioned-image--friends--phoebe--it-is-too-easy.svg.webp" alt="Snapshot from Friends: 'It's too easy'" title="'It's too easy'" />
+<img src="images/captioned-image--friends--phoebe--it-is-too-easy.svg.webp" alt="Snapshot from Friends: “It's too easy”" title="'It's too easy'" />
+
+Snapshot from Friends: “It's too easy”.
 
 ]
 
@@ -888,8 +892,8 @@ Josephus: fine.
 
 Josephus: Maybe we should have a conspiracy … of goys… pluralistic. Let's call it <a href="https://buffyfanfiction.fandom.com/wiki/The_Neo-Tech_conspiracy_for_establishing_the_Semitic_culture">The Neo-Tech conspiracy for establishing the Semitic culture</a>.
 
-Voice of a Damascus' royal guard from behind: you're a little
-late to The Game, Mr. Josephus Flavius!
+Voice of a Damascus' royal guard from behind: you’re a little
+late to TheGame™ of Fantastecha™, Mr. Josephus Flavius!
 
 [
 
@@ -898,7 +902,7 @@ of them aims his bow at Josephus .
 
 ]
 
-Guard: I can shoot you now, but I won't!
+Guard: I can shoot you now, but I won’t!
 
 Josephus: I believe you. What is it that you want from me?
 
@@ -918,7 +922,7 @@ Princess: initiate time wrap for up to 3 hours or until cancellation, please! [s
 
 Athena is greyed out.
 
-<a href="https://memory-alpha.fandom.com/wiki/Q">Q</a>, dressed in a uniform of the Damascus royal guards,
+<a href="https://memory-alpha.fandom.com/wiki/Q">Q</a>, dressed in a uniform of the Damascus’ royal guards,
 <a href="https://memory-alpha.fandom.com/wiki/Quark">Quark</a>,
 <a href="https://stexpanded.fandom.com/wiki/George_the_Cat">George the cat</a>,
 and <a href="https://stexpanded.fandom.com/wiki/Q2">Q2</a>
