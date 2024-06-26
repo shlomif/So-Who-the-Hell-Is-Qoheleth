@@ -60,6 +60,16 @@ prove of utility one day.
 Illustration: <img src="images/Standup-Philosopher.svg.webp" alt="Standup-Philosopher? Oh - a bullshit artist!" title="Standup Philosopher" />
 <a href="https://www.youtube.com/watch?v=tl4VD8uvgec">Stand-up philosopher</a> .
 
+“
+
+‘Occupation?’
+
+‘Standup-Philosopher!’
+
+‘Oh - a bullshit artist!’
+
+”
+
 ]
 
 Josephus: Yes, maybe, and it’s definitely fun.
@@ -69,7 +79,7 @@ Jacob: Well, we’d better be going - was nice running into you.
 [They part. Josephus’ Voice == Josephus’ Monologue. ]
 
 Josephus’ Voice: So here it is. My name is Yoseph in Hebrew or Josephus in
-Greek.  I lived in Damascus my whole life, and received both Jewish and Greek
+Greek. I lived in Damascus my whole life, and received both Jewish and Greek
 education. I’m still unmarried, virginal, and under constant pressure from my
 family to marry a nice Jewish girl, and have children.
 
@@ -120,7 +130,7 @@ Egyptian Girl #1: I'm sorry, we were just teasing you. You must get that a lot.
 
 Josephus: Yes, I do.
 
-Egyptian Girl #1: I can feel for you. Anyway, we loved your "Qoheleth" thing
+Egyptian Girl #1: I can feel for you. Anyway, we loved your “Qoheleth” thing
 and we memorised it all. It's awesome.
 
 Josephus: Yes, most people say that.
