@@ -49,7 +49,7 @@ $obj->run;
                 identifier => {
                     scheme => 'URL',
                     value  =>
-'http://localhost/shlomif/homepage-local/humour/So-Who-The-Hell-Is-Qoheleth/',
+'https://www.shlomifish.org/humour/So-Who-The-Hell-Is-Qoheleth/',
                 },
             },
         },
