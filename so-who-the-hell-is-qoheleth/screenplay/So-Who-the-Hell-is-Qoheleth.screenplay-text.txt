@@ -79,9 +79,9 @@ Jacob: Well, we’d better be going - was nice running into you.
 [They part. Josephus’ Voice == Josephus’ Monologue. ]
 
 Josephus’ Voice: So here it is. My name is Yoseph in Hebrew or Josephus in
-Greek. I lived in Damascus my whole life, and received both Jewish and Greek
-education. I’m still unmarried, virginal, and under constant pressure from my
-family to marry a nice Jewish girl, and have children.
+Greek. I lived in Damascus my whole life, and received both Jewish education
+and Greek education. I’m still unmarried, virginal, and under constant pressure
+from my family to marry a nice Jewish girl, and have children.
 
 +++: I was a moderately successful and minor philosopher-wannabe,
 which my merchant father looked down on as a pointless and unprofitable
@@ -92,7 +92,7 @@ successful merchant as well, but who likes philosophy a lot, made a bet with
 me that I could not write a good work of philosophy. I spent about a month
 writing the scroll of Qoheleth, and after reciting it in Aramaic and Greek,
 I got several standing ovations and people donated like crazy. Now it seems
-that everyone had it memorised, and they think it’s awesome.
+that everyone had it memorised, and they think that it is great.
 
 +++: Since then I got so much money that I’ve become too ashamed to collect
 the bet money which is quite dwarfed by what I have now.
@@ -108,7 +108,7 @@ Josephus’ Voice: They all want me!
 
 <s id="egyptian_girls" title="The Egyptian Girls">
 
-[ Josephus eye catches three attractive Egyptian girls, pointing at him and
+[ Josephus’ eye catches three attractive Egyptian girls, pointing at him and
 giggling. ]
 
 Josephus’ Voice: Oh, great, Egyptians! Widely considered to be the most
@@ -458,9 +458,9 @@ Josephus: Heh, maybe.
 
 </s>
 
-<s id="alpha-beta-gamma-omega" title="The Alpha, The Beta and The Gamma↔Omega">
+<s id="alpha-beta-gamma-omega" title="The Alpha, The Beta, and The Gamma↔Omega">
 
-<s id="alpha-beta-gamma-omega--first" title="The Alpha, The Beta and The Gamma↔Omega -- first mini-scene">
+<s id="alpha-beta-gamma-omega--first" title="The Alpha, The Beta, and The Gamma↔Omega -- first mini-scene">
 
 [
 
@@ -636,7 +636,7 @@ Josephus: Yes, I guess you are right. But what can I do?
 
 Athena: Well, one thing is to take it the right way. The
 <a href="http://en.wikipedia.org/wiki/Stoicism">Stoic</a> way. They want you —
-just accept it and even try to enjoy it . [ <a href="https://shlomifish.livejournal.com/1747.html">Reference: The Stoic Road to Peace of Mind</a> ]
+just accept it and even try to enjoy it . [ <a href="https://shlomifish.livejournal.com/1747.html">Reference: “The Stoic Road to Peace of Mind”</a> ]
 
 Josephus: Interesting. I didn’t think of it.
 
